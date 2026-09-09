@@ -1,7 +1,6 @@
 # Hi there! 👋 I'm cbreezy210
 
 **Nintendo Switch Homebrew Developer** 
-![Profile Repo Stars](https://img.shields.io/github/stars/cbreezy210/cbreezy210?style=for-the-badge&logo=github&color=yellow)
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cbreezy210&theme=radical)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cbreezy210&theme=radical)
@@ -16,10 +15,13 @@
 
 ## 🎮 My Projects
 
-### [PKHeX-NX](https://github.com/cbreezy210/PKHeX-NX) ![PKHeX-NX Stars](https://img.shields.io/github/stars/cbreezy210/PKHeX-NX?style=flat-square&logo=github&color=yellow)
+### [PKHeX-NX](https://github.com/cbreezy210/PKHeX-NX) 
+![PKHeX-NX Stars](https://img.shields.io/github/stars/cbreezy210/PKHeX-NX?style=flat-square&logo=github&color=yellow)
 Native Switch save editor for Pokémon SV (Gen 9)
 
-### [ACNH-Save-Editor](https://github.com/cbreezy210/ACNH-Save-Editor) ![ACNH Stars](https://img.shields.io/github/stars/cbreezy210/ACNH-Save-Editor?style=flat-square&logo=github&color=yellow)
+### [ACNH-Save-Editor](https://github.com/cbreezy210/ACNH-Save-Editor) 
+![ACNH Stars](https://img.shields.io/github/stars/cbreezy210/ACNH-Save-Editor?style=flat-square&logo=github&color=yellow) 
+![Downloads](https://img.shields.io/badge/Downloads-352%2B-orange?style=flat-square)
 Animal Crossing: New Horizons companion tool
 
 ## 🔗 Find Me
@@ -31,4 +33,7 @@ Animal Crossing: New Horizons companion tool
 ![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cbreezy210&theme=radical)
 
 ---
+
+⭐ **Found this useful?** Star my repos and follow my work!
+
 *Built with ❤️ and lots of coffee* ☕
