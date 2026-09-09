@@ -2,8 +2,8 @@
 
 **Nintendo Switch Homebrew Developer** 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cbreezy210&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cbreezy210&layout=compact&theme=radical)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cbreezy210&theme=radical)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cbreezy210&theme=radical)
 
 ## 🔧 What I Do
 - Creating native save editors for Switch games
@@ -13,7 +13,7 @@
 ![Nintendo Switch](https://img.shields.io/badge/Nintendo%20Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 ![Homebrew](https://img.shields.io/badge/Homebrew-Developer?style=for-the-badge&color=FF6B35)
 
-## 🎮 My Projects
+##  My Projects
 
 ### [PKHeX-NX](https://github.com/cbreezy210/PKHeX-NX)
 Native Switch save editor for Pokémon SV (Gen 9)
@@ -27,4 +27,7 @@ Animal Crossing: New Horizons companion tool
 - Reddit: u/cbreezy210
 
 ## 📊 GitHub Activity
-![Commit Activity](https://github-readme-activity-graph.vercel.app/graph?username=cbreezy210&theme=react-dark&hide_border=true)
+![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cbreezy210&theme=radical)
+
+---
+*Built with ❤️ and lots of coffee*
