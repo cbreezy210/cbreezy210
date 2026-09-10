@@ -18,6 +18,7 @@
 ## 🚀 Currently Working On
 - **PKHeX-NX** - Native Pokémon SV Save Editor. v0.9.4 LIVE! 🚀 | Staging v0.9.5 QoL & Discord Launch
 - **ACNH-Save-Editor** - Shipped v1.4.0; currently developing the v1.5.0 Room Decorations Injector
+- **Digimon Story: Time Stranger Save Editor** - Early stages: Reverse engineering the save file format 🕵️‍♂️💾
 
 ## 🎮 My Projects
 
