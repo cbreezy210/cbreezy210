@@ -25,21 +25,23 @@
 ![PKHeX-NX Stars](https://img.shields.io/github/stars/cbreezy210/PKHeX-NX?style=flat-square&logo=github&color=yellow)
 ![GitHub Downloads](https://img.shields.io/github/downloads/cbreezy210/PKHeX-NX/total?style=flat-square&logo=github&color=orange)
 
-Native Switch save editor for Pokémon SV (Gen 9)
+Native Switch save editor for Pokémon SV (Gen 9)  
+📖 [GameBrew Wiki](https://www.gamebrew.org/PKHeX-NX)
 
 ### [ACNH-Save-Editor](https://github.com/cbreezy210/ACNH-Save-Editor)
 ![ACNH Stars](https://img.shields.io/github/stars/cbreezy210/ACNH-Save-Editor?style=flat-square&logo=github&color=yellow)
 ![GitHub Downloads](https://img.shields.io/github/downloads/cbreezy210/ACNH-Save-Editor/total?style=flat-square&logo=github&color=orange)
 ![GameBanana](https://img.shields.io/badge/GameBanana-165%2B%20Downloads-F5A623?style=flat-square&logo=gamebanana&logoColor=white)
 
-Animal Crossing: New Horizons companion tool
+Animal Crossing: New Horizons companion tool  
+📖 [GameBrew Wiki](https://www.gamebrew.org/wiki/ACNH_Save_Editor_Switch)
 
-##  Find Me
+## 🔗 Find Me
 - [GBATemp](https://gbatemp.net/members/cbreezy210.619217/)
 - [GameBanana](https://gamebanana.com/tools/23811)
 - [Reddit](https://www.reddit.com/u/cbreezy210/s/ICYg6ZXcbK)
 
-##  GitHub Activity
+## 📊 GitHub Activity
 ![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cbreezy210&theme=radical&cachebust=1)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cbreezy210&theme=radical&hide_border=true)
 
