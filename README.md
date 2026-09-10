@@ -19,7 +19,7 @@
 - **PKHeX-NX** - Native Pokémon SV Save Editor. v0.9.4 LIVE! 🚀 | Staging v0.9.5 QoL & Discord Launch
 - **ACNH-Save-Editor** - Shipped v1.4.0; currently developing the v1.5.0 Room Decorations Injector
 
-##  My Projects
+## 🎮 My Projects
 
 ### [PKHeX-NX](https://github.com/cbreezy210/PKHeX-NX)
 ![PKHeX-NX Stars](https://img.shields.io/github/stars/cbreezy210/PKHeX-NX?style=flat-square&logo=github&color=yellow)
@@ -37,7 +37,7 @@ Animal Crossing: New Horizons companion tool
 ## 🔗 Find Me
 - [GBATemp](https://gbatemp.net/members/cbreezy210.619217/)
 - [GameBanana](https://gamebanana.com/tools/23811)
-- Reddit: u/cbreezy210
+- [Reddit](https://www.reddit.com/u/cbreezy210/s/ICYg6ZXcbK)
 
 ## 📊 GitHub Activity
 ![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cbreezy210&theme=radical&cachebust=1)
