@@ -26,7 +26,7 @@ Animal Crossing: New Horizons companion tool
 
 ## 🔗 Find Me
 - [GBATemp](https://gbatemp.net/members/cbreezy210.619217/)
-- [GameBanana](https://gamebanana.com/tools/23811)
+- [GameBanana]([https://gamebanana.com/tools/23811](https://gamebanana.com/members/5799686))
 - Reddit: u/cbreezy210
 
 ## 📊 GitHub Activity
