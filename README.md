@@ -2,7 +2,7 @@
 
 **Software Developer & Reverse Engineer** 
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cbreezy210&theme=radical&cachebust=7)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cbreezy210&theme=radical&cachebust=8)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cbreezy210&theme=radical)
 
 📈 **700+ downloads served** across all projects!
@@ -50,7 +50,7 @@ Animal Crossing: New Horizons companion tool
 - [Reddit](https://www.reddit.com/u/cbreezy210/s/ICYg6ZXcbK)
 
 ## 📊 GitHub Activity
-![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cbreezy210&theme=radical&cachebust=7)
+![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cbreezy210&theme=radical&cachebust=8)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cbreezy210&theme=radical&hide_border=true)
 
 ---
