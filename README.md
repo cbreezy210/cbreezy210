@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm cbreezy210
 
-**Nintendo Switch Homebrew Developer** 
+**Software Developer & Reverse Engineer** 
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cbreezy210&theme=radical&cachebust=3)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cbreezy210&theme=radical)
@@ -8,12 +8,17 @@
 📈 **700+ downloads served** across all projects!
 
 ## 🔧 What I Do
-- Creating native save editors for Switch games
-- No PC required - all tools run directly on your Switch!
+- Developing native save editors and homebrew for Nintendo Switch
+- Reverse engineering game save formats and file structures 🕵️‍♂️
+- Building local, privacy-focused AI modules (A.X.I.O.M.) 🧠
+- Creating low-level system diagnostic and repair tools 💻
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Nintendo Switch](https://img.shields.io/badge/Nintendo%20Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 ![Homebrew](https://img.shields.io/badge/Homebrew-Developer?style=for-the-badge&color=FF6B35)
+![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-FF6B6B?style=for-the-badge&logo=github&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/AI/LLM-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 
 ## 🚀 Currently Working On
 - **PKHeX-NX** - Native Pokémon SV Save Editor. v0.9.4 LIVE! 🚀 | Staging v0.9.5 QoL & Discord Launch
