@@ -30,7 +30,7 @@ Animal Crossing: New Horizons companion tool
 - Reddit: u/cbreezy210
 
 ## 📊 GitHub Activity
-![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cbreezy210&theme=radical)
+![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cbreezy210&theme=radical&cachebust=1)
 
 ---
 
