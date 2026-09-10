@@ -5,7 +5,7 @@
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cbreezy210&theme=radical&cachebust=3)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cbreezy210&theme=radical)
 
-📈 **690+ downloads served** across all projects!
+📈 **700+ downloads served** across all projects!
 
 ## 🔧 What I Do
 - Creating native save editors for Switch games
@@ -19,6 +19,8 @@
 - **PKHeX-NX** - Native Pokémon SV Save Editor. v0.9.4 LIVE! 🚀 | Staging v0.9.5 QoL & Discord Launch
 - **ACNH-Save-Editor** - Shipped v1.4.0; currently developing the v1.5.0 Room Decorations Injector
 - **Digimon Story: Time Stranger Save Editor** - Early stages: Reverse engineering the save file format 🕵️‍♂️💾
+- **A.X.I.O.M.** - Autonomous eXecutable Intelligence & Operations Machine | Local AI module (in development since July 2026) 🧠
+- **All-in-One Tech Tools** - Bootable USB app for computer diagnosis & repair (In development, release TBD) 🛠️💻
 
 ## 🎮 My Projects
 
