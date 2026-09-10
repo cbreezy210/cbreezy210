@@ -2,7 +2,7 @@
 
 **Nintendo Switch Homebrew Developer** 
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cbreezy210&theme=radical&cachebust=1)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cbreezy210&theme=radical&cachebust=2)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cbreezy210&theme=radical)
 
 📈 **690+ downloads served** across all projects!
@@ -42,7 +42,7 @@ Animal Crossing: New Horizons companion tool
 - [Reddit](https://www.reddit.com/u/cbreezy210/s/ICYg6ZXcbK)
 
 ## 📊 GitHub Activity
-![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cbreezy210&theme=radical&cachebust=1)
+![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cbreezy210&theme=radical&cachebust=2)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cbreezy210&theme=radical&hide_border=true)
 
 ---
