@@ -13,15 +13,17 @@
 ![Nintendo Switch](https://img.shields.io/badge/Nintendo%20Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 ![Homebrew](https://img.shields.io/badge/Homebrew-Developer?style=for-the-badge&color=FF6B35)
 
-## 🎮 My Projects
+##  My Projects
 
-### [PKHeX-NX](https://github.com/cbreezy210/PKHeX-NX) 
+### [PKHeX-NX](https://github.com/cbreezy210/PKHeX-NX)
 ![PKHeX-NX Stars](https://img.shields.io/github/stars/cbreezy210/PKHeX-NX?style=flat-square&logo=github&color=yellow)
+![GitHub Downloads](https://img.shields.io/github/downloads/cbreezy210/PKHeX-NX/total?style=flat-square&logo=github&color=orange)
 Native Switch save editor for Pokémon SV (Gen 9)
 
-### [ACNH-Save-Editor](https://github.com/cbreezy210/ACNH-Save-Editor) 
-![ACNH Stars](https://img.shields.io/github/stars/cbreezy210/ACNH-Save-Editor?style=flat-square&logo=github&color=yellow) 
-![Downloads](https://img.shields.io/badge/Downloads-352%2B-orange?style=flat-square)
+### [ACNH-Save-Editor](https://github.com/cbreezy210/ACNH-Save-Editor)
+![ACNH Stars](https://img.shields.io/github/stars/cbreezy210/ACNH-Save-Editor?style=flat-square&logo=github&color=yellow)
+![GitHub Downloads](https://img.shields.io/github/downloads/cbreezy210/ACNH-Save-Editor/total?style=flat-square&logo=github&color=orange)
+![GameBanana](https://img.shields.io/badge/GameBanana-165%2B%20Downloads-F5A623?style=flat-square&logo=gamebanana&logoColor=white)
 Animal Crossing: New Horizons companion tool
 
 ## 🔗 Find Me
