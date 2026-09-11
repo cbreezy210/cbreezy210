@@ -26,10 +26,11 @@
 - **PKHeX-NX** - Native Pokémon SV Save Editor. v0.9.5 LIVE! 🚀 | Community Discord coming soon
 - **ACNH-Save-Editor** - Shipped v1.4.0; currently developing the v1.5.0 Room Decorations Injector
 - **Digimon Story: Time Stranger Save Editor** - Early stages: Reverse engineering the save file format 🕵️‍♂️💾
-- **A.X.I.O.M.** - Autonomous eXecutable Intelligence & Operations Machine | Local AI module (in development since July 2026) 🧠
+- **A.X.I.O.M.** - Autonomous eXecutable Intelligence & Operations Machine | Local AI that DMs D&D campaigns with persistent lore & NPC world state (in development since July 2026) 🧠🐉
+- **Creature_AI_Prototype** - Autonomous AI creatures with persistent individual minds, interacting in a simulated ecosystem 🐾
 - **All-in-One Tech Tools** - Bootable USB app for computer diagnosis & repair (In development, release TBD) 🛠️💻
 
-##  My Projects
+## 🎮 My Projects
 
 ### [PKHeX-NX](https://github.com/cbreezy210/PKHeX-NX)
 ![PKHeX-NX Stars](https://img.shields.io/github/stars/cbreezy210/PKHeX-NX?style=flat-square&logo=github&color=yellow)
