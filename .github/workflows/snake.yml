@@ -1,0 +1,27 @@
+name: Generate Snake Animation
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate the snake game
+        uses: Platane/snk@v3
+        with:
+          github_user_name: cbreezy210
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Publish to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
