@@ -27,7 +27,8 @@
 - **ACNH-Save-Editor** - Shipped v1.4.0; currently developing the v1.5.0 Room Decorations Injector
 - **Digimon Story: Time Stranger Save Editor** - Early stages: Reverse engineering the save file format 🕵️‍♂️💾
 - **A.X.I.O.M.** - Autonomous eXecutable Intelligence & Operations Machine | Local AI that DMs D&D campaigns with persistent lore & NPC world state (in development since July 2026) 🧠🐉
-- **Creature_AI_Prototype** - Autonomous AI creatures with persistent individual minds, interacting in a simulated ecosystem 🐾
+- **Creature_AI_Prototype** - Autonomous AI creatures with persistent individual minds, interacting in a simulated ecosystem 🐾  
+  *Observed: Mayors assigning tasks, creatures refusing duties due to low friendship, dynamic elections, and AI-generated internal monologues driving daily actions.*
 - **All-in-One Tech Tools** - Bootable USB app for computer diagnosis & repair (In development, release TBD) 🛠️💻
 
 ## 🎮 My Projects
