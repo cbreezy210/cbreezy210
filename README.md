@@ -4,14 +4,14 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=FF4E8A&vCenter=true&width=440&lines=Building+native+Switch+homebrew;Reverse+engineering+save+files;Training+local+AI+modules;Fixing+PCs+one+USB+at+a+time)
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cbreezy210&theme=radical&cachebust=18)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cbreezy210&theme=radical&cachebust=20)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cbreezy210&theme=radical)
 
-📈 **750+ downloads served** across all projects!
+📈 **760+ downloads served** across all projects!
 
 ## 🔧 What I Do
 - Developing native save editors and homebrew for Nintendo Switch
-- Reverse engineering game save formats and file structures 🕵️‍♂️
+- Reverse engineering game save formats and file structures ️‍♂️
 - Building local, privacy-focused AI modules (A.X.I.O.M.) 🧠
 - Creating low-level system diagnostic and repair tools 💻
 
@@ -25,7 +25,7 @@
 ## 🚀 Currently Working On
 - **PKHeX-NX** - Native Pokémon SV Save Editor. v0.9.5 LIVE! 🚀 | Community Discord coming soon
 - **ACNH-Save-Editor** - Shipped v1.4.0; currently developing the v1.5.0 Room Decorations Injector
-- **Digimon Story: Time Stranger Save Editor** - Early stages: Reverse engineering the save file format 🕵️‍♂️💾
+- **Digimon Story: Time Stranger Save Editor** - Early stages: Reverse engineering the save file format ️‍♂️💾
 - **A.X.I.O.M. v2** - Autonomous Local AI OS | Uncensored Dungeon Master (persistent world state, combat, lore RAG), Brutal Interview Simulator, and PC Diagnostic Agent (runs offline via Ollama/ChromaDB) 🐉💻
 - **Creature_AI_Prototype** - Multi-agent ecosystem simulation with persistent individual minds, emergent social dynamics, elected governance, and task delegation 🐾🏛️
 - **All-in-One Tech Tools** - Bootable USB app for computer diagnosis & repair (In development, release TBD) 🛠️💻
@@ -51,13 +51,61 @@ Native Switch save editor for Pokémon SV (Gen 9)
 Animal Crossing: New Horizons companion tool  
 📖 [GameBrew Wiki](https://www.gamebrew.org/wiki/ACNH_Save_Editor_Switch)
 
+## 🤖 AI Projects
+
+### A.X.I.O.M. v2 — Autonomous Local AI OS
+
+<p align="center">
+  <img src="assets/axiom_resume_interview.png" width="45%" alt="Resume Parser & Interview Simulator" />
+  <img src="assets/axiom_job_kanban.png" width="45%" alt="Job Hunt Kanban Board" />
+</p>
+<p align="center">
+  <em>Left: Resume Parser + Brutal Interview Simulator | Right: Job Hunt Kanban Tracker</em>
+</p>
+
+<p align="center">
+  <img src="assets/axiom_dnd_mode.png" width="60%" alt="A.X.I.O.M. D&D Dungeon Master Mode" />
+</p>
+<p align="center">
+  <em>D&D Mode with Grit Level slider, Character Creation & Campaign Management</em>
+</p>
+
+<p align="center">
+  <img src="assets/axiom_rulebook_rag.png" width="60%" alt="A.X.I.O.M. Rulebook RAG System" />
+</p>
+<p align="center">
+  <em>A.X.I.O.M. ingests the official D&D 5e SRD via ChromaDB for accurate rule-based narration</em>
+</p>
+
+**Features:**
+- 🐉 **Uncensored Dungeon Master** — Persistent world state, combat tracking, lore RAG, session chronicles
+- 💼 **Brutal Interview Simulator** — Realistic hiring manager persona with scored feedback
+- 📄 **Resume Parser & Job Hunter** — PDF parsing, automated job search, cover letter generation
+- 🛠️ **PC Diagnostic Agent** — Executes local PowerShell tools safely via permission gate
+- 🧠 **Fully Offline** — Runs on Ollama + ChromaDB, zero data leaves your machine
+
+### Creature_AI_Prototype — Multi-Agent Ecosystem Simulation
+
+<p align="center">
+  <img src="assets/creature_ai_habitat.png" width="70%" alt="Creature AI Habitat Dashboard" />
+</p>
+<p align="center">
+  <em>Emergent colony governance with elected mayors, task delegation, and persistent creature relationships</em>
+</p>
+
+**Features:**
+- 🧠 **Persistent Individual Minds** — Each creature has unique memory, personality, and relationship maps
+- 🏛️ **Elected Governance** — Dynamic mayor elections with leadership scores and task assignment
+- 🤝 **Social Dynamics** — Creatures refuse tasks based on friendship levels, form alliances, and negotiate
+- ⏱️ **Time & Weather System** — Day/night cycles, weather effects, and resource management
+
 ## 🔗 Find Me
 - [GBATemp](https://gbatemp.net/members/cbreezy210.619217/)
 - [GameBanana](https://gamebanana.com/members/5799686)
 - [Reddit](https://www.reddit.com/u/cbreezy210/s/ICYg6ZXcbK)
 
 ## 📊 GitHub Activity
-![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cbreezy210&theme=radical&cachebust=18)
+![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cbreezy210&theme=radical&cachebust=20)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cbreezy210&theme=radical&hide_border=true)
 
 ### 🐍 Contribution Snake
