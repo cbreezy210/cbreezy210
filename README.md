@@ -21,7 +21,7 @@
 ![Artificial Intelligence](https://img.shields.io/badge/AI/LLM-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 
 ## 🚀 Currently Working On
-- **PKHeX-NX** - Native Pokémon SV Save Editor. v0.9.4 LIVE! 🚀 | Staging v0.9.5 QoL & Discord Launch
+- **PKHeX-NX** - Native Pokémon SV Save Editor. v0.9.5 LIVE! 🚀 | Community Discord coming soon
 - **ACNH-Save-Editor** - Shipped v1.4.0; currently developing the v1.5.0 Room Decorations Injector
 - **Digimon Story: Time Stranger Save Editor** - Early stages: Reverse engineering the save file format 🕵️‍♂️💾
 - **A.X.I.O.M.** - Autonomous eXecutable Intelligence & Operations Machine | Local AI module (in development since July 2026) 🧠
