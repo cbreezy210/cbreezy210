@@ -2,10 +2,10 @@
 
 **Software Developer & Reverse Engineer** 
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cbreezy210&theme=radical&cachebust=13)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cbreezy210&theme=radical&cachebust=14)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cbreezy210&theme=radical)
 
-📈 **700+ downloads served** across all projects!
+📈 **740+ downloads served** across all projects!
 
 ## 🔧 What I Do
 - Developing native save editors and homebrew for Nintendo Switch
@@ -32,6 +32,7 @@
 ### [PKHeX-NX](https://github.com/cbreezy210/PKHeX-NX)
 ![PKHeX-NX Stars](https://img.shields.io/github/stars/cbreezy210/PKHeX-NX?style=flat-square&logo=github&color=yellow)
 ![GitHub Downloads](https://img.shields.io/github/downloads/cbreezy210/PKHeX-NX/total?style=flat-square&logo=github&color=orange)
+![Latest Release](https://img.shields.io/github/v/release/cbreezy210/PKHeX-NX?include_prereleases&style=flat-square&logo=github&color=blueviolet)
 
 Native Switch save editor for Pokémon SV (Gen 9)  
 📖 [GameBrew Wiki](https://www.gamebrew.org/PKHeX-NX)
@@ -40,6 +41,7 @@ Native Switch save editor for Pokémon SV (Gen 9)
 ![ACNH Stars](https://img.shields.io/github/stars/cbreezy210/ACNH-Save-Editor?style=flat-square&logo=github&color=yellow)
 ![GitHub Downloads](https://img.shields.io/github/downloads/cbreezy210/ACNH-Save-Editor/total?style=flat-square&logo=github&color=orange)
 ![GameBanana](https://img.shields.io/badge/GameBanana-175%2B%20Downloads-F5A623?style=flat-square&logo=gamebanana&logoColor=white)
+![Latest Release](https://img.shields.io/github/v/release/cbreezy210/ACNH-Save-Editor?style=flat-square&logo=github&color=blueviolet)
 
 Animal Crossing: New Horizons companion tool  
 📖 [GameBrew Wiki](https://www.gamebrew.org/wiki/ACNH_Save_Editor_Switch)
@@ -50,11 +52,18 @@ Animal Crossing: New Horizons companion tool
 - [Reddit](https://www.reddit.com/u/cbreezy210/s/ICYg6ZXcbK)
 
 ## 📊 GitHub Activity
-![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cbreezy210&theme=radical&cachebust=13)
+![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cbreezy210&theme=radical&cachebust=14)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cbreezy210&theme=radical&hide_border=true)
+
+### 🏆 Trophy Case
+![Trophies](https://github-profile-trophy.vercel.app/?username=cbreezy210&theme=radical&no-frame=true&column=4)
 
 ---
 
 ⭐ **Found this useful?** Star my repos and follow my work!
 
 *Built with ❤️ and lots of coffee* ☕
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/cbreezy210/count.svg" alt="Visitor Count" />
+</div>
