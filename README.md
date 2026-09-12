@@ -64,8 +64,7 @@ Animal Crossing: New Horizons companion tool
 </p>
 
 <p align="center">
-  <img src="assets/axiom_dnd_mode.png" width="60%" alt="A.X.I.O.M. D&D Dungeon Master Mode" />
-</p>
+  <img src="assets/axiom_dnd_mode.png?v=2" width="60%" alt="A.X.I.O.M. D&D Dungeon Master Mode" />
 <p align="center">
   <em>D&D Mode with Grit Level slider, Character Creation & Campaign Management</em>
 </p>
