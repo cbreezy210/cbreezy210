@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=FF4E8A&vCenter=true&width=440&lines=Building+native+Switch+homebrew;Reverse+engineering+save+files;Training+local+AI+modules;Fixing+PCs+one+USB+at+a+time)
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cbreezy210&theme=radical&cachebust=21)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cbreezy210&theme=radical&cachebust=22)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cbreezy210&theme=radical)
 
 📈 **760+ downloads served** across all projects!
@@ -50,6 +50,12 @@ Native Switch save editor for Pokémon SV (Gen 9)
 
 Animal Crossing: New Horizons companion tool  
 📖 [GameBrew Wiki](https://www.gamebrew.org/wiki/ACNH_Save_Editor_Switch)
+
+## 💬 From the Trenches
+
+> *"I told my niece I corrupted her island... she dubbed you 'Corrupt Bro'. Restoring the Zelda save sounds complicated so I think I'm going to stop but I'm happy the switch is working again. Again, you're an awesome person for taking the time to help me troubleshoot."*
+>
+> — **igomhn3**, ACNH-Save-Editor User (after a successful NAND rescue! 😎)
 
 ## 🤖 AI Projects
 
@@ -104,7 +110,7 @@ Animal Crossing: New Horizons companion tool
 - [Reddit](https://www.reddit.com/u/cbreezy210/s/ICYg6ZXcbK)
 
 ## 📊 GitHub Activity
-![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cbreezy210&theme=radical&cachebust=21)
+![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cbreezy210&theme=radical&cachebust=22)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cbreezy210&theme=radical&hide_border=true)
 
 ### 🐍 Contribution Snake
