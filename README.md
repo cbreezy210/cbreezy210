@@ -11,9 +11,9 @@
 
 ## 🔧 What I Do
 - Developing native save editors and homebrew for Nintendo Switch
-- Reverse engineering game save formats and file structures ️‍♂️
-- Building local, privacy-focused AI modules (A.X.I.O.M.) 🧠
-- Creating low-level system diagnostic and repair tools 💻
+- Reverse engineering game save formats and file structures 🕵️‍♂️
+- Building local, privacy-focused AI modules (A.X.I.O.M.) 
+- Creating low-level system diagnostic and repair tools 
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -55,7 +55,13 @@ Animal Crossing: New Horizons companion tool
 
 > *"I told my niece I corrupted her island... she dubbed you 'Corrupt Bro'. Restoring the Zelda save sounds complicated so I think I'm going to stop but I'm happy the switch is working again. Again, you're an awesome person for taking the time to help me troubleshoot."*
 >
-> — **igomhn3**, ACNH-Save-Editor User (after a successful NAND rescue! 😎)
+> — **igomhn3**, ACNH-Save-Editor User (after a successful NAND rescue! )
+
+<br>
+
+> *"I need to write up a small 'how to' document for my non tech-saavy wife... Would you like me to post it here so you can use whatever part of it that you want for helping others?"*
+>
+> — **micaturtle**, Tech Support Pro & Community Collaborator *(After catching a folder naming bug in v1.4.0, they helped fix the release zip and volunteered to write an accessibility guide)*
 
 ## 🤖 AI Projects
 
@@ -71,6 +77,7 @@ Animal Crossing: New Horizons companion tool
 
 <p align="center">
   <img src="assets/axiom_dnd_mode.png?v=2" width="60%" alt="A.X.I.O.M. D&D Dungeon Master Mode" />
+</p>
 <p align="center">
   <em>D&D Mode with Grit Level slider, Character Creation & Campaign Management</em>
 </p>
@@ -101,7 +108,7 @@ Animal Crossing: New Horizons companion tool
 **Features:**
 - 🧠 **Persistent Individual Minds** — Each creature has unique memory, personality, and relationship maps
 - 🏛️ **Elected Governance** — Dynamic mayor elections with leadership scores and task assignment
-- 🤝 **Social Dynamics** — Creatures refuse tasks based on friendship levels, form alliances, and negotiate
+-  **Social Dynamics** — Creatures refuse tasks based on friendship levels, form alliances, and negotiate
 - ⏱️ **Time & Weather System** — Day/night cycles, weather effects, and resource management
 
 ## 🔗 Find Me
@@ -109,7 +116,7 @@ Animal Crossing: New Horizons companion tool
 - [GameBanana](https://gamebanana.com/members/5799686)
 - [Reddit](https://www.reddit.com/u/cbreezy210/s/ICYg6ZXcbK)
 
-## 📊 GitHub Activity
+##  GitHub Activity
 ![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cbreezy210&theme=radical&cachebust=22)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cbreezy210&theme=radical&hide_border=true)
 
