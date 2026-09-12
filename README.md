@@ -49,10 +49,6 @@ Animal Crossing: New Horizons companion tool
 
 ## 💬 From the Trenches
 
-> *"I told my niece I corrupted her island... she dubbed you 'Corrupt Bro'. Restoring the Zelda save sounds complicated so I think I'm going to stop but I'm happy the switch is working again. Again, you're an awesome person for taking the time to help me troubleshoot."*
-> 
-> — **igomhn3**, ACNH-Save-Editor User *(after a successful NAND rescue! 😎)*
-
 > *"I need to write up a small 'how to' document for my non-tech-savvy wife... Would you like me to post it here so you can use whatever part of it that you want for helping others?"*
 > 
 > — **micaturtle**, Tech Support Pro & Community Collaborator *(After catching a folder naming bug in v1.4.0, they helped fix the release zip and volunteered to write an accessibility guide)*
