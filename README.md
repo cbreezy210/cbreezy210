@@ -24,12 +24,12 @@
 ## 🚀 Currently Working On
 - **PKHeX-NX** - Native Pokémon SV Save Editor. v0.9.5 LIVE! 🚀 | Community Discord coming soon
 - **ACNH-Save-Editor** - Shipped v1.4.0; currently developing the v1.5.0 Room Decorations Injector
-- **Digimon Story: Time Stranger Save Editor** - Early stages: Reverse engineering the save file format 🕵️‍♂️💾
+- **Digimon Story: Time Stranger Save Editor** - Early stages: Reverse engineering the save file format ️‍♂️💾
 - **A.X.I.O.M. v2** - Autonomous Local AI OS | Uncensored Dungeon Master (persistent world state, combat, lore RAG), Brutal Interview Simulator, and PC Diagnostic Agent (runs offline via Ollama/ChromaDB) 🐉💻
 - **Creature_AI_Prototype** - Multi-agent ecosystem simulation with persistent individual minds, emergent social dynamics, elected governance, and task delegation 🐾🏛️
 - **All-in-One Tech Tools** - Bootable USB app for computer diagnosis & repair (In development, release TBD) 🛠️💻
 
-## 🎮 My Projects
+##  My Projects
 ### [PKHeX-NX](https://github.com/cbreezy210/PKHeX-NX)
 ![PKHeX-NX Stars](https://img.shields.io/github/stars/cbreezy210/PKHeX-NX?style=flat-square&logo=github&color=yellow)
 ![GitHub Downloads](https://img.shields.io/github/downloads/cbreezy210/PKHeX-NX/total?style=flat-square&logo=github&color=orange)
@@ -48,14 +48,22 @@ Animal Crossing: New Horizons companion tool
 📖 [GameBrew Wiki](https://www.gamebrew.org/wiki/ACNH_Save_Editor_Switch)
 
 ## 💬 From the Trenches
+> *"I told my niece I corrupted her island... she dubbed you 'Corrupt Bro'. Restoring the Zelda save sounds complicated so I think I'm going to stop but I'm happy the switch is working again. Again, you're an awesome person for taking the time to help me troubleshoot."*
+> 
+> — **igomhn3**, ACNH-Save-Editor User *(after a successful NAND rescue! 😎) (shared with permission)*
+<br>
 
 > *"I need to write up a small 'how to' document for my non-tech-savvy wife... Would you like me to post it here so you can use whatever part of it that you want for helping others?"*
 > 
 > — **micaturtle**, Tech Support Pro & Community Collaborator *(After catching a folder naming bug in v1.4.0, they helped fix the release zip and volunteered to write an accessibility guide)*
 
+<br>
+
 > *"Can someone please bring native PKHeX on switch with support for all gens... You got all my support my friend!"*
 > 
 > — **z-shark**, Homebrew Community Member *(After seeing my ACNH editor, they confirmed native PKHeX-NX was exactly what the community needed for cross-gen Pokémon management)*
+
+<br>
 
 > *"OMG Cbreezy! You are the GOAT! I haven't even opened it yet, and this looks AWESOME. :D - the pocket item injection will be awesome! Thank you SO much :D"*
 > 
@@ -88,10 +96,9 @@ Animal Crossing: New Horizons companion tool
 **Features:**
 - 🐉 **Uncensored Dungeon Master** — Persistent world state, combat tracking, lore RAG, session chronicles
 - 💼 **Brutal Interview Simulator** — Realistic hiring manager persona with scored feedback
-- 📄 **Resume Parser & Job Hunter** — PDF parsing, automated job search, cover letter generation
+-  **Resume Parser & Job Hunter** — PDF parsing, automated job search, cover letter generation
 - 🛠️ **PC Diagnostic Agent** — Executes local PowerShell tools safely via permission gate
 - 🧠 **Fully Offline** — Runs on Ollama + ChromaDB, zero data leaves your machine
-
 ### Creature_AI_Prototype — Multi-Agent Ecosystem Simulation
 <p align="center">
 <img src="assets/creature_ai_habitat.png" width="70%" alt="Creature AI Habitat Dashboard" />
@@ -101,7 +108,7 @@ Animal Crossing: New Horizons companion tool
 </p>
 
 **Features:**
-- 🧠 **Persistent Individual Minds** — Each creature has unique memory, personality, and relationship maps
+-  **Persistent Individual Minds** — Each creature has unique memory, personality, and relationship maps
 - 🏛️ **Elected Governance** — Dynamic mayor elections with leadership scores and task assignment
 - 🤝 **Social Dynamics** — Creatures refuse tasks based on friendship levels, form alliances, and negotiate
 - ⏱️ **Time & Weather System** — Day/night cycles, weather effects, and resource management
