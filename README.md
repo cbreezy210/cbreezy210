@@ -124,6 +124,7 @@ Animal Crossing: New Horizons companion tool
 
 ---
 ⭐ **Found this useful?** Star my repos and follow my work!
+
 *Built with ❤️ and lots of coffee* ☕
 
 <div align="center">
