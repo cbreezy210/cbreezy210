@@ -3,7 +3,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=FF4E8A&vCenter=true&width=440&lines=Building+native+Switch+homebrew;Reverse+engineering+save+files;Training+local+AI+modules;Fixing+PCs+one+USB+at+a+time)
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cbreezy210&theme=radical&cachebust=23)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cbreezy210&theme=radical&cachebust=24)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cbreezy210&theme=radical)
 
 📈 **780+ downloads served** across all projects!
@@ -39,6 +39,7 @@
 ![License](https://img.shields.io/github/license/cbreezy210/PKHeX-NX?style=flat-square&color=blue)
 
 Native Switch save editor for Pokémon SV (Gen 9)
+
 📖 [GameBrew Wiki](https://www.gamebrew.org/PKHeX-NX)
 
 ### [ACNH-Save-Editor](https://github.com/cbreezy210/ACNH-Save-Editor)
@@ -49,6 +50,7 @@ Native Switch save editor for Pokémon SV (Gen 9)
 ![License](https://img.shields.io/github/license/cbreezy210/ACNH-Save-Editor?style=flat-square&color=blue)
 
 Animal Crossing: New Horizons companion tool
+
 📖 [GameBrew Wiki](https://www.gamebrew.org/wiki/ACNH_Save_Editor_Switch)
 
 ## 💬 From the Trenches
@@ -123,7 +125,7 @@ Animal Crossing: New Horizons companion tool
 - [Reddit](https://www.reddit.com/u/cbreezy210/s/ICYg6ZXcbK)
 
 ## 📊 GitHub Activity
-![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cbreezy210&theme=radical&cachebust=23)
+![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cbreezy210&theme=radical&cachebust=24)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cbreezy210&theme=radical&hide_border=true)
 
 ### 🐍 Contribution Snake
