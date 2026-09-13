@@ -3,10 +3,10 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=FF4E8A&vCenter=true&width=440&lines=Building+native+Switch+homebrew;Reverse+engineering+save+files;Training+local+AI+modules;Fixing+PCs+one+USB+at+a+time)
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cbreezy210&theme=radical&cachebust=30)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cbreezy210&theme=radical&cachebust=31)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cbreezy210&theme=radical)
 
-📈 **870+ downloads served** across all projects!
+📈 **880+ downloads served** across all projects!
 
 🏆 Community Nickname: "Corrupt Bro" (after a legendary NAND rescue)
 
@@ -45,7 +45,7 @@ Native Switch save editor for Pokémon SV (Gen 9)
 ### [ACNH-Save-Editor](https://github.com/cbreezy210/ACNH-Save-Editor)
 ![ACNH Stars](https://img.shields.io/github/stars/cbreezy210/ACNH-Save-Editor?style=flat-square&logo=github&color=yellow)
 ![GitHub Downloads](https://img.shields.io/github/downloads/cbreezy210/ACNH-Save-Editor/total?style=flat-square&logo=github&color=orange)
-![GameBanana](https://img.shields.io/badge/GameBanana-184%2B%20Downloads-F5A623?style=flat-square&logo=gamebanana&logoColor=white)
+![GameBanana](https://img.shields.io/badge/GameBanana-187%2B%20Downloads-F5A623?style=flat-square&logo=gamebanana&logoColor=white)
 ![Latest Release](https://img.shields.io/github/v/release/cbreezy210/ACNH-Save-Editor?style=flat-square&logo=github&color=blueviolet)
 ![License](https://img.shields.io/github/license/cbreezy210/ACNH-Save-Editor?style=flat-square&color=blue)
 
@@ -121,7 +121,7 @@ Animal Crossing: New Horizons companion tool
 - [Reddit](https://www.reddit.com/u/cbreezy210/s/ICYg6ZXcbK)
 
 ## 📊 GitHub Activity
-![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cbreezy210&theme=radical&cachebust=30)
+![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cbreezy210&theme=radical&cachebust=31)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cbreezy210&theme=radical&hide_border=true)
 
 ### 🐍 Contribution Snake
