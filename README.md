@@ -48,6 +48,7 @@ Native Switch save editor for Pokémon SV (Gen 9)
 ![License](https://img.shields.io/github/license/cbreezy210/ACNH-Save-Editor?style=flat-square&color=blue)
 
 Animal Crossing: New Horizons companion tool
+
 📖 [GameBrew Wiki](https://www.gamebrew.org/wiki/ACNH_Save_Editor_Switch)
 
 ## 💬 From the Trenches
