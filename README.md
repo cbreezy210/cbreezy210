@@ -99,8 +99,8 @@ Animal Crossing: New Horizons companion tool
 
 **Features:**- 🐉 **Uncensored Dungeon Master** — Persistent world state, combat tracking, lore RAG, session chronicles
 - 💼 **Brutal Interview Simulator** — Realistic hiring manager persona with scored feedback
--  **Resume Parser & Job Hunter** — PDF parsing, automated job search, cover letter generation
-- ️ **PC Diagnostic Agent** — Executes local PowerShell tools safely via permission gate
+- 📄 **Resume Parser & Job Hunter** — PDF parsing, automated job search, cover letter generation
+- 🛠️ **PC Diagnostic Agent** — Executes local PowerShell tools safely via permission gate
 - 🧠 **Fully Offline** — Runs on Ollama + ChromaDB, zero data leaves your machine
 
 ### Creature_AI_Prototype — Multi-Agent Ecosystem Simulation
@@ -113,7 +113,7 @@ Animal Crossing: New Horizons companion tool
 
 **Features:**
 - 🧠 **Persistent Individual Minds** — Each creature has unique memory, personality, and relationship maps
-- ️ **Elected Governance** — Dynamic mayor elections with leadership scores and task assignment
+- 🏛️ **Elected Governance** — Dynamic mayor elections with leadership scores and task assignment
 - 🤝 **Social Dynamics** — Creatures refuse tasks based on friendship levels, form alliances, and negotiate
 - ⏱️ **Time & Weather System** — Day/night cycles, weather effects, and resource management
 
@@ -122,7 +122,7 @@ Animal Crossing: New Horizons companion tool
 - [GameBanana](https://gamebanana.com/members/5799686)
 - [Reddit](https://www.reddit.com/u/cbreezy210/s/ICYg6ZXcbK)
 
-##  GitHub Activity
+## 📊 GitHub Activity
 ![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cbreezy210&theme=radical&cachebust=22)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cbreezy210&theme=radical&hide_border=true)
 
