@@ -9,7 +9,7 @@
 📈 **980+ downloads served** across all projects!
 
 ## 🔧 What I Do
-- Developing native save editors and homebrew for Nintendo Switch
+- Developing native save editors and homebrew for Nintendo Switch 🎮
 - Reverse engineering game save formats and file structures 🕵️‍♂️
 - Building local, privacy-focused AI modules (A.X.I.O.M.) 🧠
 - Creating low-level system diagnostic and repair tools 💻
