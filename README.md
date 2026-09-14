@@ -1,9 +1,9 @@
-# Hi there! 👋 I'm cbreezy210
+# Hi there!  I'm cbreezy210
 **Software Developer & Reverse Engineer**
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=FF4E8A&vCenter=true&width=440&lines=Building+native+Switch+homebrew;Reverse+engineering+save+files;Training+local+AI+modules;Fixing+PCs+one+USB+at+a+time)
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cbreezy210&theme=radical&cachebust=35)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cbreezy210&theme=radical)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cbreezy210&theme=radical)
 
 📈 **950+ downloads served** across all projects!
@@ -11,7 +11,7 @@
 🏆 Community Nickname: "Corrupt Bro" (after a legendary NAND rescue)
 
 ## 🔧 What I Do
-- Developing native save editors and homebrew for Nintendo Switch 🎮
+- Developing native save editors and homebrew for Nintendo Switch 
 - Reverse engineering game save formats and file structures 🕵️‍♂️
 - Building local, privacy-focused AI modules (A.X.I.O.M.) 🧠
 - Creating low-level system diagnostic and repair tools 💻
@@ -28,7 +28,7 @@
 - **ACNH-Save-Editor** - Shipped v1.4.0; currently developing the v1.5.0 Room Decorations Injector
 - **Digimon Story: Time Stranger Save Editor** - Early stages: Reverse engineering the save file format 🕵️‍♂️💾
 - **A.X.I.O.M. v2** - Autonomous Local AI OS | Uncensored Dungeon Master (persistent world state, combat, lore RAG), Brutal Interview Simulator, and PC Diagnostic Agent (runs offline via Ollama/ChromaDB) 🐉💻
-- **Creature_AI_Prototype** - Multi-agent ecosystem simulation with persistent individual minds, emergent social dynamics, elected governance, and task delegation 🐾🏛️
+- **Creature_AI_Prototype** - Multi-agent ecosystem simulation with persistent individual minds, emergent social dynamics, elected governance, and task delegation 🐾️
 - **All-in-One Tech Tools** - Bootable USB app for computer diagnosis & repair (In development, release TBD) 🛠️💻
 
 ## 🎮 My Projects
@@ -48,7 +48,6 @@ Native Switch save editor for Pokémon SV (Gen 9)
 ![GameBanana](https://img.shields.io/badge/GameBanana-192%2B%20Downloads-F5A623?style=flat-square&logo=gamebanana&logoColor=white)
 ![Latest Release](https://img.shields.io/github/v/release/cbreezy210/ACNH-Save-Editor?style=flat-square&logo=github&color=blueviolet)
 ![License](https://img.shields.io/github/license/cbreezy210/ACNH-Save-Editor?style=flat-square&color=blue)
-
 Animal Crossing: New Horizons companion tool
 
 📖 [GameBrew Wiki](https://www.gamebrew.org/wiki/ACNH_Save_Editor_Switch)
@@ -97,8 +96,8 @@ Animal Crossing: New Horizons companion tool
 
 **Features:**
 - 🐉 **Uncensored Dungeon Master** — Persistent world state, combat tracking, lore RAG, session chronicles
-- 💼 **Brutal Interview Simulator** — Realistic hiring manager persona with scored feedback- 📄 **Resume Parser & Job Hunter** — PDF parsing, automated job search, cover letter generation
-- 🛠️ **PC Diagnostic Agent** — Executes local PowerShell tools safely via permission gate
+- 💼 **Brutal Interview Simulator** — Realistic hiring manager persona with scored feedback-  **Resume Parser & Job Hunter** — PDF parsing, automated job search, cover letter generation
+- ️ **PC Diagnostic Agent** — Executes local PowerShell tools safely via permission gate
 - 🧠 **Fully Offline** — Runs on Ollama + ChromaDB, zero data leaves your machine
 
 ### Creature_AI_Prototype — Multi-Agent Ecosystem Simulation
@@ -110,7 +109,7 @@ Animal Crossing: New Horizons companion tool
 </p>
 
 **Features:**
-- 🧠 **Persistent Individual Minds** — Each creature has unique memory, personality, and relationship maps
+-  **Persistent Individual Minds** — Each creature has unique memory, personality, and relationship maps
 - 🏛️ **Elected Governance** — Dynamic mayor elections with leadership scores and task assignment
 - 🤝 **Social Dynamics** — Creatures refuse tasks based on friendship levels, form alliances, and negotiate
 - ⏱️ **Time & Weather System** — Day/night cycles, weather effects, and resource management
@@ -121,7 +120,7 @@ Animal Crossing: New Horizons companion tool
 - [Reddit](https://www.reddit.com/u/cbreezy210/s/ICYg6ZXcbK)
 
 ## 📊 GitHub Activity
-![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cbreezy210&theme=radical&cachebust=35)
+![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cbreezy210&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cbreezy210&theme=radical&hide_border=true)
 
 ### 🐍 Contribution Snake
