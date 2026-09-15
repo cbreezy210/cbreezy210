@@ -24,7 +24,7 @@
 ## 🚀 Currently Working On
 - **PKHeX-NX** - Native Pokémon SV Save Editor. v0.9.5 LIVE! 🚀 | Community Discord coming soon
 - **ACNH-Save-Editor** - Shipped v1.4.0; currently developing the v1.5.0 Room Decorations Injector
-- **Digimon Story: Time Stranger Save Editor** - Early stages: Reverse engineering the save file format 🕵️‍♂️💾
+- **Digimon Story: Time Stranger Save Editor** - Working native C++ homebrew prototype (v0.2). Core reverse engineering complete; currently implementing direct NAND FS access for seamless, bridge-free in-game editing 🎮💾
 - **A.X.I.O.M. v2** - Autonomous Local AI OS | Uncensored Dungeon Master (persistent world state, combat, lore RAG), Brutal Interview Simulator, and PC Diagnostic Agent (runs offline via Ollama/ChromaDB) 🐉💻
 - **Creature_AI_Prototype** - Multi-agent ecosystem simulation with persistent individual minds, emergent social dynamics, elected governance, and task delegation 🐾🏛️
 - **All-in-One Tech Tools** - Bootable USB app for computer diagnosis & repair (In development, release TBD) 🛠️💻
@@ -43,7 +43,7 @@ Native Switch save editor for Pokémon SV (Gen 9)
 ### [ACNH-Save-Editor](https://github.com/cbreezy210/ACNH-Save-Editor)
 ![ACNH Stars](https://img.shields.io/github/stars/cbreezy210/ACNH-Save-Editor?style=flat-square&logo=github&color=yellow)
 ![GitHub Downloads](https://img.shields.io/github/downloads/cbreezy210/ACNH-Save-Editor/total?style=flat-square&logo=github&color=orange)
-![GameBanana](https://img.shields.io/badge/GameBanana-197%2B%20Downloads-F5A623?style=flat-square&logo=gamebanana&logoColor=white)
+![GameBanana](https://img.shields.io/badge/GameBanana-201%2B%20Downloads-F5A623?style=flat-square&logo=gamebanana&logoColor=white)
 ![Latest Release](https://img.shields.io/github/v/release/cbreezy210/ACNH-Save-Editor?style=flat-square&logo=github&color=blueviolet)
 ![License](https://img.shields.io/github/license/cbreezy210/ACNH-Save-Editor?style=flat-square&color=blue)
 
