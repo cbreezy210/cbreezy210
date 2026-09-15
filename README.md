@@ -97,7 +97,8 @@ Animal Crossing: New Horizons companion tool
 <em>A.X.I.O.M. ingests the official D&D 5e SRD via ChromaDB for accurate rule-based narration</em>
 </p>
 
-**Features:**- 🐉 **Uncensored Dungeon Master** — Persistent world state, combat tracking, lore RAG, session chronicles
+**Features:**
+- 🐉 **Uncensored Dungeon Master** — Persistent world state, combat tracking, lore RAG, session chronicles
 - 💼 **Brutal Interview Simulator** — Realistic hiring manager persona with scored feedback
 - 📄 **Resume Parser & Job Hunter** — PDF parsing, automated job search, cover letter generation
 - 🛠️ **PC Diagnostic Agent** — Executes local PowerShell tools safely via permission gate
