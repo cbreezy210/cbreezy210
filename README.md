@@ -6,7 +6,7 @@
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cbreezy210&theme=radical&cachebust=24)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cbreezy210&theme=radical)
 
-📈 **1,050+ downloads served** across all projects!
+📈 **1,100+ downloads served** across all projects!
 
 ## 🔧 What I Do
 - Developing native save editors and homebrew for Nintendo Switch 🎮
@@ -43,7 +43,7 @@ Native Switch save editor for Pokémon SV (Gen 9)
 ### [ACNH-Save-Editor](https://github.com/cbreezy210/ACNH-Save-Editor)
 ![ACNH Stars](https://img.shields.io/github/stars/cbreezy210/ACNH-Save-Editor?style=flat-square&logo=github&color=yellow)
 ![GitHub Downloads](https://img.shields.io/github/downloads/cbreezy210/ACNH-Save-Editor/total?style=flat-square&logo=github&color=orange)
-![GameBanana](https://img.shields.io/badge/GameBanana-221%2B%20Downloads-F5A623?style=flat-square&logo=gamebanana&logoColor=white)
+![GameBanana](https://img.shields.io/badge/GameBanana-227%2B%20Downloads-F5A623?style=flat-square&logo=gamebanana&logoColor=white)
 ![Latest Release](https://img.shields.io/github/v/release/cbreezy210/ACNH-Save-Editor?style=flat-square&logo=github&color=blueviolet)
 ![License](https://img.shields.io/github/license/cbreezy210/ACNH-Save-Editor?style=flat-square&color=blue)
 
