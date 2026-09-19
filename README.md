@@ -22,9 +22,9 @@
 ![Artificial Intelligence](https://img.shields.io/badge/AI/LLM-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 
 ## 🚀 Currently Working On
-- **PKHeX-NX** - Native Pokémon SV Save Editor. v0.9.5 LIVE! 🚀 | Community Discord coming soon
-- **ACNH-Save-Editor** - Shipped v1.4.0; currently developing the v1.5.0 Room Decorations Injector
-- **Digimon Story: Time Stranger Save Editor** - Working native C++ homebrew prototype (v0.2). Core reverse engineering complete; currently implementing direct NAND FS access for seamless, bridge-free in-game editing 🎮💾
+⭐ - **PKHeX-NX** - Native Pokémon SV Save Editor. v0.9.5 LIVE! 🚀 | Community Discord coming soon
+⭐ - **ACNH-Save-Editor** - Shipped v1.4.0; currently developing the v1.5.0 Room Decorations Injector
+⭐ - **Digimon Story: Time Stranger Save Editor** - Working native C++ homebrew prototype (v0.2). Core reverse engineering complete; currently implementing direct NAND FS access for seamless, bridge-free in-game editing 🎮💾
 - **A.X.I.O.M. v2** - Autonomous Local AI OS | Uncensored Dungeon Master (persistent world state, combat, lore RAG), Brutal Interview Simulator, and PC Diagnostic Agent (runs offline via Ollama/ChromaDB) 🐉💻
 - **Creature_AI_Prototype** - Multi-agent ecosystem simulation with persistent individual minds, emergent social dynamics, elected governance, and task delegation 🐾🏛️
 - **All-in-One Tech Tools** - Bootable USB app for computer diagnosis & repair (In development, release TBD) 🛠️💻
