@@ -30,7 +30,7 @@
 - **All-in-One Tech Tools** - Bootable USB app for computer diagnosis & repair (In development, release TBD) 🛠️💻
 
 ## 🎮 My Projects
-### [TimeStranger-NX](https://github.com/cbreezy210/TimeStranger-NX)
+### [TimeStranger-NX](https://github.com/cbreezy210/TimeStranger-NX) 💩
 ![TimeStranger-NX Stars](https://img.shields.io/github/stars/cbreezy210/TimeStranger-NX?style=flat-square&logo=github&color=yellow)
 ![GitHub Downloads](https://img.shields.io/github/downloads/cbreezy210/TimeStranger-NX/total?style=flat-square&logo=github&color=orange)
 ![Status](https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square)
@@ -43,7 +43,7 @@
 - Discovered the `fsFsCommit()` requirement to prevent silent NAND rollbacks
 - Built custom hex-scanners to diff save dumps and locate offsets/checksums automatically
 
-### [PKHeX-NX](https://github.com/cbreezy210/PKHeX-NX)
+### [PKHeX-NX](https://github.com/cbreezy210/PKHeX-NX) 🔴⚪️
 ![PKHeX-NX Stars](https://img.shields.io/github/stars/cbreezy210/PKHeX-NX?style=flat-square&logo=github&color=yellow)
 ![GitHub Downloads](https://img.shields.io/github/downloads/cbreezy210/PKHeX-NX/total?style=flat-square&logo=github&color=orange)
 ![Latest Release](https://img.shields.io/github/v/release/cbreezy210/PKHeX-NX?include_prereleases&style=flat-square&logo=github&color=blueviolet)
@@ -61,7 +61,7 @@
 
 💬 [GBATemp Release Thread](https://gbatemp.net/threads/homebrew-app-pkhex-nx-native-switch-pokemon-save-editor-scarlet-violet-devlog-sneak-peek.684125/)
 
-### [ACNH-Save-Editor](https://github.com/cbreezy210/ACNH-Save-Editor)
+### [ACNH-Save-Editor](https://github.com/cbreezy210/ACNH-Save-Editor) 🍃
 ![ACNH Stars](https://img.shields.io/github/stars/cbreezy210/ACNH-Save-Editor?style=flat-square&logo=github&color=yellow)
 ![GitHub Downloads](https://img.shields.io/github/downloads/cbreezy210/ACNH-Save-Editor/total?style=flat-square&logo=github&color=orange)
 ![GameBanana](https://img.shields.io/badge/GameBanana-235%2B%20Downloads-F5A623?style=flat-square&logo=gamebanana&logoColor=white)
