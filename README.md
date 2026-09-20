@@ -60,9 +60,15 @@ Native Switch save editor for Pokémon SV (Gen 9)
 ![Latest Release](https://img.shields.io/github/v/release/cbreezy210/ACNH-Save-Editor?style=flat-square&logo=github&color=blueviolet)
 ![License](https://img.shields.io/github/license/cbreezy210/ACNH-Save-Editor?style=flat-square&color=blue)
 
-Animal Crossing: New Horizons companion tool
+**Shipped & stable:** The first 100% native Switch save editor for Animal Crossing: New Horizons — no PC, no save dumping, no bridges. v1.4.0 live with 1,000+ combined downloads across GitHub + GameBanana; v1.5.0 Room Decorations Injector in active development.
 
-📖 [GameBrew Wiki](https://www.gamebrew.org/wiki/ACNH_Save_Editor_Switch)
+🔬 **Reverse Engineering Highlights:**
+- Cracked the AES-encrypted economy integers (Wallet, Bank, Nook Miles, Loan) split across `personal.dat` (per-resident) and `main.dat` (per-island)
+- Implemented automatic Murmur3 hash healing so edited saves pass the game's integrity checks on first boot
+- Mapped the pocket item table: 8-byte slot records at offset `0x2A00` under `/Villager0/`, powered by a 13,000+ item-name database with native keyboard search
+- Built the byte-verified backup + dual-file commit safety pipeline (auto SD backup before every NAND write, one-tap ZL rollback) — 1,000+ installs, zero lost saves
+
+📖 [GameBrew Wiki](https://www.gamebrew.org/wiki/ACNH_Save_Editor_Switch) · 💬 [GBATemp Release Thread](https://gbatemp.net/threads/release-acnh-save-editor-a-new-save-editor-for-animal-crossing-new-horizons.683771/)
 
 ## 💬 From the Trenches
 
