@@ -34,7 +34,7 @@
 ![TimeStranger-NX Stars](https://img.shields.io/github/stars/cbreezy210/TimeStranger-NX?style=flat-square&logo=github&color=yellow)
 ![GitHub Downloads](https://img.shields.io/github/downloads/cbreezy210/TimeStranger-NX/total?style=flat-square&logo=github&color=orange)
 ![Status](https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square)
-![License](https://img.shields.io/github/license/cbreezy210/TimeStranger-NX?style=flat-square&color=blue)
+![License](https://img.shields.io/github/license/cbreezy210/TimeStranger-NX?style=flat-square&color=blue&cachebust=1)
 
 **Currently in active development:** The first native Switch save editor for Digimon Story: Time Stranger. Successfully achieved direct NAND injection (no bridge required!). Building out advanced features before public release.
 
