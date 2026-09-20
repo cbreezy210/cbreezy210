@@ -22,14 +22,27 @@
 ![Artificial Intelligence](https://img.shields.io/badge/AI/LLM-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 
 ## 🚀 Currently Working On
+- ⭐ **TimeStranger-NX** - Digimon Story: Time Stranger Save Editor. **v1.0.0 SHIPPED!** 🚀 Native C++ homebrew with direct NAND injection for seamless, bridge-free in-game editing (no save manager required!) 🎮💾
 - ⭐ **PKHeX-NX** - Native Pokémon SV Save Editor. v0.9.5 LIVE! 🚀 | Community Discord coming soon
 - ⭐ **ACNH-Save-Editor** - Shipped v1.4.0; currently developing the v1.5.0 Room Decorations Injector
-- ⭐ **TimeStranger-NX** - Digimon Story: Time Stranger Save Editor. Working native C++ homebrew prototype (v0.2). Core reverse engineering complete; currently implementing direct NAND FS access for seamless, bridge-free in-game editing 🎮💾
 - **A.X.I.O.M. v2** - Autonomous Local AI OS | Uncensored Dungeon Master (persistent world state, combat, lore RAG), Brutal Interview Simulator, and PC Diagnostic Agent (runs offline via Ollama/ChromaDB) 🐉💻
 - **Creature_AI_Prototype** - Multi-agent ecosystem simulation with persistent individual minds, emergent social dynamics, elected governance, and task delegation 🐾🏛️
 - **All-in-One Tech Tools** - Bootable USB app for computer diagnosis & repair (In development, release TBD) 🛠️💻
 
 ## 🎮 My Projects
+### [TimeStranger-NX](https://github.com/cbreezy210/TimeStranger-NX)
+![TimeStranger-NX Stars](https://img.shields.io/github/stars/cbreezy210/TimeStranger-NX?style=flat-square&logo=github&color=yellow)
+![GitHub Downloads](https://img.shields.io/github/downloads/cbreezy210/TimeStranger-NX/total?style=flat-square&logo=github&color=orange)
+![Latest Release](https://img.shields.io/github/v/release/cbreezy210/TimeStranger-NX?include_prereleases&style=flat-square&logo=github&color=blueviolet)
+![License](https://img.shields.io/github/license/cbreezy210/TimeStranger-NX?style=flat-square&color=blue)
+
+The first native Switch save editor for Digimon Story: Time Stranger. Features direct NAND injection for seamless, bridge-free editing (no JKSV/Checkpoint SD card shuffle required!).
+
+🔬 **Reverse Engineering Highlights:**
+- Located Yen value at offset `0x7973` (u32 little-endian) in `/savedata/0001.bin`
+- Discovered the `fsFsCommit()` requirement to prevent silent NAND rollbacks
+- Built custom hex-scanners to diff save dumps and locate offsets/checksums automatically
+
 ### [PKHeX-NX](https://github.com/cbreezy210/PKHeX-NX)
 ![PKHeX-NX Stars](https://img.shields.io/github/stars/cbreezy210/PKHeX-NX?style=flat-square&logo=github&color=yellow)
 ![GitHub Downloads](https://img.shields.io/github/downloads/cbreezy210/PKHeX-NX/total?style=flat-square&logo=github&color=orange)
