@@ -69,6 +69,7 @@ Native Switch save editor for Pokémon SV (Gen 9)
 - Built the byte-verified backup + dual-file commit safety pipeline (auto SD backup before every NAND write, one-tap ZL rollback) — 1,000+ installs, zero lost saves
 
 📖 [GameBrew Wiki](https://www.gamebrew.org/wiki/ACNH_Save_Editor_Switch) 
+
 💬 [GBATemp Release Thread](https://gbatemp.net/threads/release-acnh-save-editor-a-new-save-editor-for-animal-crossing-new-horizons.683771/)
 
 ## 💬 From the Trenches
