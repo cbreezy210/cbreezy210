@@ -22,7 +22,7 @@
 ![Artificial Intelligence](https://img.shields.io/badge/AI/LLM-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 
 ## 🚀 Currently Working On
-- ⭐ **TimeStranger-NX** - Digimon Story: Time Stranger Save Editor. **v1.0.0 SHIPPED!** 🚀 Native C++ homebrew with direct NAND injection for seamless, bridge-free in-game editing (no save manager required!) 🎮💾
+- ⭐ **TimeStranger-NX** - Digimon Story: Time Stranger Save Editor. Direct NAND FS access successfully implemented (no bridge required!). Currently adding advanced features before public release 🎮💾🔥
 - ⭐ **PKHeX-NX** - Native Pokémon SV Save Editor. v0.9.5 LIVE! 🚀 | Community Discord coming soon
 - ⭐ **ACNH-Save-Editor** - Shipped v1.4.0; currently developing the v1.5.0 Room Decorations Injector
 - **A.X.I.O.M. v2** - Autonomous Local AI OS | Uncensored Dungeon Master (persistent world state, combat, lore RAG), Brutal Interview Simulator, and PC Diagnostic Agent (runs offline via Ollama/ChromaDB) 🐉💻
@@ -33,10 +33,10 @@
 ### [TimeStranger-NX](https://github.com/cbreezy210/TimeStranger-NX)
 ![TimeStranger-NX Stars](https://img.shields.io/github/stars/cbreezy210/TimeStranger-NX?style=flat-square&logo=github&color=yellow)
 ![GitHub Downloads](https://img.shields.io/github/downloads/cbreezy210/TimeStranger-NX/total?style=flat-square&logo=github&color=orange)
-![Latest Release](https://img.shields.io/github/v/release/cbreezy210/TimeStranger-NX?include_prereleases&style=flat-square&logo=github&color=blueviolet)
+![Status](https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square)
 ![License](https://img.shields.io/github/license/cbreezy210/TimeStranger-NX?style=flat-square&color=blue)
 
-The first native Switch save editor for Digimon Story: Time Stranger. Features direct NAND injection for seamless, bridge-free editing (no JKSV/Checkpoint SD card shuffle required!).
+**Currently in active development:** The first native Switch save editor for Digimon Story: Time Stranger. Successfully achieved direct NAND injection (no bridge required!). Building out advanced features before public release.
 
 🔬 **Reverse Engineering Highlights:**
 - Located Yen value at offset `0x7973` (u32 little-endian) in `/savedata/0001.bin`
