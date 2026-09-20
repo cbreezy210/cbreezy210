@@ -49,9 +49,17 @@
 ![Latest Release](https://img.shields.io/github/v/release/cbreezy210/PKHeX-NX?include_prereleases&style=flat-square&logo=github&color=blueviolet)
 ![License](https://img.shields.io/github/license/cbreezy210/PKHeX-NX?style=flat-square&color=blue)
 
-Native Switch save editor for Pokémon SV (Gen 9)
+**Public Beta & actively hardening:** The first 100% native Switch save editor for Pokémon Scarlet & Violet (Gen 9) — no PC, no save dumping, no bridges. v0.9.5 QoL sprint live; part of the 1,000+ combined downloads milestone across the native save editor portfolio.
 
-📖 [GameBrew Wiki](https://www.gamebrew.org/PKHeX-NX)
+🔬 **Reverse Engineering Highlights:**
+- Cracked the Gen 9 SCBlock/SCXorShift32 save structure with SHA256 footer verification and xorpad decryption
+- Ported the PKHeX `SpeciesConverter` to fix the Paldean ID divergence (Tarountula #917+ now display correctly, eliminating the "Dunsparce imposter" bug)
+- Built a legality-aware generator: real abilities, manual legal move picker (pulled from real learnsets), growth-correct EXP across all 6 curves, and a 26-ball picker with correct in-game IDs
+- Implemented the byte-verified backup + dual-file commit safety pipeline, alongside boot-time crypto sanity checks, SD space validation, and hard Applet-mode memory guards
+
+📖 [GameBrew Wiki](https://www.gamebrew.org/wiki/PKHeX-NX)
+
+💬 [GBATemp Release Thread](https://gbatemp.net/threads/homebrew-app-pkhex-nx-native-switch-pokemon-save-editor-scarlet-violet-devlog-sneak-peek.684125/)
 
 ### [ACNH-Save-Editor](https://github.com/cbreezy210/ACNH-Save-Editor)
 ![ACNH Stars](https://img.shields.io/github/stars/cbreezy210/ACNH-Save-Editor?style=flat-square&logo=github&color=yellow)
