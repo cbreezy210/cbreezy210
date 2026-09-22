@@ -150,6 +150,7 @@
 - [GBATemp](https://gbatemp.net/members/cbreezy210.619217/)
 - [GameBanana](https://gamebanana.com/members/5799686)
 - [Reddit](https://www.reddit.com/u/cbreezy210/s/ICYg6ZXcbK)
+- 🦋 [Bluesky](https://bsky.app/profile/cbreezy210.bsky.social)
 
 ## 📊 GitHub Activity
 ![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cbreezy210&theme=radical&cachebust=27)
