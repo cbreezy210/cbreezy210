@@ -1,3 +1,5 @@
+> *"The corrupt bro dances across the NAND, thirteen bytes past the checksum, and the save never knows."* 💩
+
 # Hi there! 👋 I'm cbreezy210
 **Software Developer & Reverse Engineer**
 
