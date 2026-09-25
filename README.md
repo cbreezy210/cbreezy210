@@ -8,7 +8,7 @@
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cbreezy210&theme=radical&cachebust=27)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cbreezy210&theme=radical)
 
-## 📈 **1,250+ downloads served** across all projects!
+## 📈 **1,300+ downloads served** across all projects!
 
 ## 🔧 What I Do
 - Developing native save editors and homebrew for Nintendo Switch 🎮
