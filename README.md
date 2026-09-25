@@ -16,12 +16,13 @@
 - Building local, privacy-focused AI modules (A.X.I.O.M.) 🧠
 - Creating low-level system diagnostic and repair tools 💻
 
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Nintendo Switch](https://img.shields.io/badge/Nintendo%20Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
-![Homebrew](https://img.shields.io/badge/Homebrew-Developer?style=for-the-badge&color=FF6B35)
-![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-FF6B6B?style=for-the-badge&logo=github&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/AI/LLM-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![Nintendo Switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)]()
+[![Homebrew](https://img.shields.io/badge/Homebrew-FF6600?style=for-the-badge&logo=homebrew&logoColor=white)]()
+[![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-FF4444?style=for-the-badge&logo=github&logoColor=white)]()
+[![AI/LLM](https://img.shields.io/badge/AI/LLM-9B59B6?style=for-the-badge&logo=openai&logoColor=white)]()
 
 ## 🚀 Currently Working On
 - ⭐ **TimeStranger-NX** - Digimon Story: Time Stranger Save Editor. Direct NAND FS access successfully implemented (no bridge required!). Currently adding advanced features before public release 🎮💾🔥
