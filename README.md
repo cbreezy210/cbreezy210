@@ -15,6 +15,7 @@
 - Reverse engineering game save formats and file structures 🕵️‍♂️
 - Building local, privacy-focused AI modules (A.X.I.O.M.) 🧠
 - Creating low-level system diagnostic and repair tools 💻
+- Shipping zero-dependency open-source developer tools & network analysis utilities 🧰
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -145,6 +146,13 @@
 - 🏛️ **Elected Governance** — Dynamic mayor elections with leadership scores and task assignment
 - 🤝 **Social Dynamics** — Creatures refuse tasks based on friendship levels, form alliances, and negotiate
 - ⏱️ **Time & Weather System** — Day/night cycles, weather effects, and resource management
+
+## 🧰 Open-Source Dev Tools
+### [gh-network-scanner](https://github.com/cbreezy210/gh-network-scanner) 🕸️
+![Scanner Stars](https://img.shields.io/github/stars/cbreezy210/gh-network-scanner?style=flat-square&logo=github&color=yellow)
+![License](https://img.shields.io/github/license/cbreezy210/gh-network-scanner?style=flat-square&color=blue)
+
+**Shipped & live:** A zero-dependency, safety-first CLI that maps your second-degree GitHub network to surface high-signal developers. Pure Python stdlib — no pip, no frameworks. Applies a strict Quality Gate to filter bots and mass-followers, then enriches survivors with repo-language data. This is the exact tool that surfaced scene legends and local-AI builders into my own network dossier.
 
 ## 🔗 Find Me
 - [GBATemp](https://gbatemp.net/members/cbreezy210.619217/)
