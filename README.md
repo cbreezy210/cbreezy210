@@ -5,7 +5,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=FF4E8A&vCenter=true&width=440&lines=Building+native+Switch+homebrew;Reverse+engineering+save+files;Direct+NAND+injection+🔥;Training+local+AI+modules;Fixing+PCs+one+USB+at+a+time)
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cbreezy210&theme=radical&cachebust=27)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cbreezy210&theme=radical&cachebust=28)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cbreezy210&theme=radical)
 
 ## 📈 **1,300+ downloads served** across all projects!
@@ -161,7 +161,7 @@
 - [Bluesky](https://bsky.app/profile/cbreezy210.bsky.social)
 
 ## 📊 GitHub Activity
-![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cbreezy210&theme=radical&cachebust=27)
+![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cbreezy210&theme=radical&cachebust=28)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cbreezy210&theme=radical&hide_border=true)
 
 ### 🐍 Contribution Snake
