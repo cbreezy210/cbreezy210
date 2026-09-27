@@ -147,12 +147,17 @@
 - 🤝 **Social Dynamics** — Creatures refuse tasks based on friendship levels, form alliances, and negotiate
 - ⏱️ **Time & Weather System** — Day/night cycles, weather effects, and resource management
 
+## 🤝 Recent Open-Source Contributions
+- **[GitProfileLens](https://github.com/quangshuynh/gitprofilelens) (Accessibility & Testing):** Implemented keyboard-accessible copy feedback with `aria-live` announcements and robust clipboard error handling. Rewrote unit tests to exercise real production handlers, ensuring deterministic success/failure paths without breaking existing focus behavior.
+- **[Repo-Radar](https://github.com/quangshuynh/repo-radar) (Algorithmic Disambiguation):** Fixed a semantic collision in recommendation ranking where the "homebrew" keyword falsely matched macOS `brew` taps instead of Nintendo Switch homebrew projects. Added platform-context disambiguation to preserve relevance for console dev profiles.
+- **[flamoris-ai-agent](https://github.com/flamoris-jp/flamoris-ai-agent) (Phase 0 Validation):** Independently executed and documented the full local acceptance checklist for a runtime-agnostic local AI agent. Identified and provided exact fixes for Windows UTF-8 encoding traps and OpenAI-compatible API provider mismatches (`llama.cpp` vs `ollama`), elevating the project's robustness for future Windows developers. 
+
 ## 🧰 Open-Source Dev Tools
 ### [gh-network-scanner](https://github.com/cbreezy210/gh-network-scanner) 🕸️
 ![Scanner Stars](https://img.shields.io/github/stars/cbreezy210/gh-network-scanner?style=flat-square&logo=github&color=yellow)
 ![License](https://img.shields.io/github/license/cbreezy210/gh-network-scanner?style=flat-square&color=blue)
 
-**Shipped & live:** A zero-dependency, safety-first CLI that maps your second-degree GitHub network to surface high-signal developers. Pure Python stdlib — no pip, no frameworks. Applies a strict Quality Gate to filter bots and mass-followers, then enriches survivors with repo-language data. This is the exact tool that surfaced scene legends and local-AI builders into my own network dossier.
+**Shipped & live:** A zero-dependency, safety-first CLI that maps your second-degree GitHub network to surface high-signal developers. Pure Python stdlib — no pip, no frameworks. Applies a strict Quality Gate to filter bots and mass-followers, then enriches survivors with repo-language data. This is the exact tool that recently surfaced and connected me with Switch homebrew legends (ClusterM, fincs, WinterMute) and local-AI architects, proving the zero-dependency, safety-first architecture in the wild.
 
 ## 🔗 Find Me
 - [GBATemp](https://gbatemp.net/members/cbreezy210.619217/)
