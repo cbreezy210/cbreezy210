@@ -10,6 +10,11 @@
 
 ## 📈 **1,400+ downloads served** across all projects!
 
+### ☕ Support My Work
+If my tools have saved your save file, streamlined your workflow, or helped you understand local AI architecture, consider buying me a coffee! It keeps the local servers humming and the reverse engineering going. 🕵️‍♂️
+
+<a href="https://www.buymeacoffee.com/cbreezy210" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 ## 🔧 What I Do
 - Developing native save editors and homebrew for Nintendo Switch 🎮
 - Reverse engineering game save formats and file structures 🕵️‍♂️
@@ -175,6 +180,14 @@
 
 ### 🐍 Contribution Snake
 ![Snake animation](https://raw.githubusercontent.com/cbreezy210/cbreezy210/output/github-snake-dark.svg)
+
+---
+### 💖 Support This Work
+I build native Switch homebrew, zero-dependency save editors, and local-first AI systems. All my tools are open-source, safety-first, and byte-verified. 
+
+If you've benefited from my work—whether it's rescuing a corrupted island, editing Pokémon saves on your Switch, or exploring local AI architecture—your support helps me keep building tools you can trust.
+
+<a href="https://www.buymeacoffee.com/cbreezy210" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ---
 ⭐ **Found this useful?** Star my repos and follow my work!
