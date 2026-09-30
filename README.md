@@ -10,11 +10,6 @@
 
 ## 📈 **1,400+ downloads served** across all projects!
 
-### ☕ Support My Work
-If my tools have saved your save file, streamlined your workflow, or helped you understand local AI architecture, consider buying me a coffee! It keeps the local servers humming and the reverse engineering going. 🕵️‍♂️
-
-<a href="https://www.buymeacoffee.com/cbreezy210" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
 ## 🔧 What I Do
 - Developing native save editors and homebrew for Nintendo Switch 🎮
 - Reverse engineering game save formats and file structures 🕵️‍♂️
