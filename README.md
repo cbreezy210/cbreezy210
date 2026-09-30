@@ -158,6 +158,31 @@
 - **[OpenNOW-Switch](https://github.com/OpenCloudGaming/OpenNOW-Switch) (Real Hardware QA):** Conducted deep hardware acceptance testing on modded Switch. Isolated a DTLS stream negotiation hang, validated the upstream fix (PR #37), and caught a critical global input regression (touch + Joy-Con HID) that CI missed, preventing a broken stable release.
 - **[Dusklight](https://github.com/HayatoG/dusklight) (Release Engineering):** Diagnosed a version mismatch between the `.nro` NACP metadata and the in-game menu (`git describe --dirty`). Proposed three distinct CMake/release pipeline solutions, drawing from direct experience shipping `PKHeX-NX`.
 
+## 💼 Available for Freelance & Contract Work
+
+I leverage my deep expertise in **reverse engineering**, **systems programming**, and **local AI architecture** to help companies and developers solve complex technical challenges. I prioritize **safety**, **transparency**, and **byte-verified integrity** in every project.
+
+### ✍️ Technical Writing & Documentation
+*I translate complex low-level concepts into clear, actionable guides for developers and end-users.*
+- **Specialties:** Reverse engineering tutorials, API documentation, save-format breakdowns, and security best practices.
+- **Recent Work:** Authored the [r/SwitchPirates 23.0.0 Recovery Guide](https://www.reddit.com/r/SwitchPirates/s/9IyhbWkFE3) (7k+ views) and contributed accessibility docs for [GitProfileLens](https://github.com/quangshuynh/gitprofilelens).
+- **Ideal For:** Developer blogs, SDK documentation, and community-facing technical guides.
+
+### 🐛 Bug Bounty Hunting & Security Auditing
+*I find the edge cases that CI pipelines miss, focusing on memory safety, crypto implementations, and file system integrity.*
+- **Specialties:** Native application hardening, hash verification logic, NAND/file-system commit mechanisms (`fsFsCommit()`), and local AI model security.
+- **Track Record:** Identified critical input regressions in [OpenNOW-Switch](https://github.com/OpenCloudGaming/OpenNOW-Switch) and architectural friction points in [flamoris-ai-agent](https://github.com/flamoris-jp/flamoris-ai-agent).
+- **Ideal For:** Pre-release security audits, homebrew tool hardening, and local-first AI application testing.
+
+### 🛠️ Specialized IT Support & Systems Engineering
+*I build zero-dependency tools and diagnostic agents that respect user privacy and system integrity.*
+- **Specialties:** Python CLI automation, network diagnostics, local LLM integration (Ollama/ChromaDB), and Windows/Linux system repair.
+- **Tools Built:** [gh-network-scanner](https://github.com/cbreezy210/gh-network-scanner) (zero-dep network mapping) and A.X.I.O.M. PC Diagnostic Agent.
+- **Ideal For:** Automating internal dev-ops tasks, building custom diagnostic tools, or setting up secure, offline AI workflows.
+
+---
+**📩 Contact:** For inquiries, please reach out via [GitHub Issues](https://github.com/cbreezy210/cbreezy210/issues) or connect with me on [Bluesky](https://bsky.app/profile/cbreezy210.bsky.social).
+
 ## 🧰 Open-Source Dev Tools
 ### [gh-network-scanner](https://github.com/cbreezy210/gh-network-scanner) 🕸️
 ![Scanner Stars](https://img.shields.io/github/stars/cbreezy210/gh-network-scanner?style=flat-square&logo=github&color=yellow)
