@@ -84,6 +84,9 @@
 
 ## 💬 From the Trenches
 
+> *"Your Phase 0 feedback helped us catch exactly the kind of portability issues we wanted to eliminate."*  
+> — **akino-nanto**, flamoris-ai-agent maintainer *(on PR #20, merging the refactor your Phase 0 testing triggered)*
+
 > *"direct NAND save interaction is fucking sick"*  
 > — **u/Duffmcmcmcwhalen**, r/SwitchHacks *(on the TimeStranger-NX devlog)*
 
@@ -151,7 +154,7 @@
 - **[r/SwitchPirates 23.0.0 Recovery Guide](https://www.reddit.com/r/SwitchPirates/s/9IyhbWkFE3)** — 7k+ views, 35+ shares, 20+ comment support thread; maintained with a public corrections log and maintainer-verified fixes (bth, hexkyz).
 - **[GitProfileLens](https://github.com/quangshuynh/gitprofilelens) (Accessibility & Testing):** Implemented keyboard-accessible copy feedback with `aria-live` announcements and robust clipboard error handling. Rewrote unit tests to exercise real production handlers, ensuring deterministic success/failure paths.
 - **[Repo-Radar](https://github.com/quangshuynh/repo-radar) (Algorithmic Disambiguation):** Fixed a semantic collision in recommendation ranking where the "homebrew" keyword falsely matched macOS `brew` taps instead of Nintendo Switch homebrew projects, preserving relevance for console dev profiles.
-- **[flamoris-ai-agent](https://github.com/flamoris-jp/flamoris-ai-agent) (Phase 0 Validation & Architecture Impact):** Independently executed the full local acceptance checklist for a runtime-agnostic local AI agent on Windows. Identified critical friction points (UTF-8 encoding traps, API provider mismatches) which directly influenced the maintainer's architectural refactor (PR #20) for a neutral, environment-driven setup flow.
+- **[flamoris-ai-agent](https://github.com/flamoris-jp/flamoris-ai-agent) (Phase 0 Validation & Architecture Impact):** Independently executed the full local acceptance checklist for a runtime-agnostic local AI agent on Windows. Identified critical friction points (UTF-8 encoding traps, API provider mismatches) which directly influenced the maintainer's architectural refactor ([PR #20](https://github.com/flamoris-jp/flamoris-ai-agent/pull/20)) for a neutral, environment-driven setup flow.
 - **[OpenNOW-Switch](https://github.com/OpenCloudGaming/OpenNOW-Switch) (Real Hardware QA):** Conducted deep hardware acceptance testing on modded Switch. Isolated a DTLS stream negotiation hang, validated the upstream fix (PR #37), and caught a critical global input regression (touch + Joy-Con HID) that CI missed, preventing a broken stable release.
 - **[Dusklight](https://github.com/HayatoG/dusklight) (Release Engineering):** Diagnosed a version mismatch between the `.nro` NACP metadata and the in-game menu (`git describe --dirty`). Proposed three distinct CMake/release pipeline solutions, drawing from direct experience shipping `PKHeX-NX`.
 
