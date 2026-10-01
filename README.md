@@ -3,7 +3,7 @@
 # Hi there! 👋 I'm cbreezy210
 **Software Developer & Reverse Engineer**
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=FF4E8A&vCenter=true&width=440&lines=Building+native+Switch+homebrew;Reverse+engineering+save+files;Direct+NAND+injection+;Training+local+AI+modules;Fixing+PCs+one+USB+at+a+time)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=FF4E8A&vCenter=true&width=440&lines=Building+native+Switch+homebrew;Reverse+engineering+save+files;Direct+NAND+injection+🔥;Training+local+AI+modules;Fixing+PCs+one+USB+at+a+time)
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cbreezy210&theme=radical&cachebust=30)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cbreezy210&theme=radical)
@@ -13,8 +13,8 @@
 ## 🔧 What I Do
 - Developing native save editors and homebrew for Nintendo Switch 🎮
 - Reverse engineering game save formats and file structures 🕵️‍♂️
-- Building local, privacy-focused AI modules (A.X.I.O.M.) 
-- Creating low-level system diagnostic and repair tools 
+- Building local, privacy-focused AI modules (A.X.I.O.M.) 🧠
+- Creating low-level system diagnostic and repair tools 💻
 - Shipping zero-dependency open-source developer tools & network analysis utilities 🧰
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -24,12 +24,12 @@
 ![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-FF4500?style=for-the-badge&logo=github&logoColor=white)
 ![AI/LLM](https://img.shields.io/badge/AI/LLM-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 
-##  Currently Working On
-- ⭐ **TimeStranger-NX** - Digimon Story: Time Stranger Save Editor. Direct NAND FS access successfully implemented (no bridge required!). Currently adding advanced features before public release 🎮🔥
+## 🚀 Currently Working On
+- ⭐ **TimeStranger-NX** - Digimon Story: Time Stranger Save Editor. Direct NAND FS access successfully implemented (no bridge required!). Currently adding advanced features before public release 🎮💾🔥
 - ⭐ **PKHeX-NX** - Native Pokémon SV Save Editor. v0.9.5 LIVE! 🚀 | Community Discord coming soon
 - ⭐ **ACNH-Save-Editor** - Shipped v1.4.0; currently developing the v1.5.0 Room Decorations Injector
-- **A.X.I.O.M. v2** - Autonomous Local AI OS | Uncensored Dungeon Master (persistent world state, combat, lore RAG), Brutal Interview Simulator, and PC Diagnostic Agent (runs offline via Ollama/ChromaDB) 🐉
-- **Creature_AI_Prototype** - Multi-agent ecosystem simulation with persistent individual minds, emergent social dynamics, elected governance, and task delegation 🐾️
+- **A.X.I.O.M. v2** - Autonomous Local AI OS | Uncensored Dungeon Master (persistent world state, combat, lore RAG), Brutal Interview Simulator, and PC Diagnostic Agent (runs offline via Ollama/ChromaDB) 🐉💻
+- **Creature_AI_Prototype** - Multi-agent ecosystem simulation with persistent individual minds, emergent social dynamics, elected governance, and task delegation 🐾
 - **All-in-One Tech Tools** - Bootable USB app for computer diagnosis & repair (In development, release TBD) 🛠️💻
 
 ## 🎮 My Projects
@@ -47,12 +47,13 @@
 
 ### [PKHeX-NX](https://github.com/cbreezy210/PKHeX-NX) 🔴⚪️
 ![PKHeX-NX Stars](https://img.shields.io/github/stars/cbreezy210/PKHeX-NX?style=flat-square&logo=github&color=yellow)
-![GitHub Downloads](https://img.shields.io/github/downloads/cbreezy210/PKHeX-NX/total?style=flat-square&logo=github&color=orange)![Latest Release](https://img.shields.io/github/v/release/cbreezy210/PKHeX-NX?include_prereleases&style=flat-square&logo=github&color=blueviolet)
+![GitHub Downloads](https://img.shields.io/github/downloads/cbreezy210/PKHeX-NX/total?style=flat-square&logo=github&color=orange)
+![Latest Release](https://img.shields.io/github/v/release/cbreezy210/PKHeX-NX?include_prereleases&style=flat-square&logo=github&color=blueviolet)
 ![License](https://img.shields.io/github/license/cbreezy210/PKHeX-NX?style=flat-square&color=blue)
 
 **Public Beta & actively hardening:** **A 100% native Switch save editor for Pokémon Scarlet & Violet — built with open-source C++, byte-verified backups, and dual-file commit safety.** — no PC, no save dumping, no bridges. v0.9.5 QoL sprint live; part of the 1,000+ combined downloads milestone across the native save editor portfolio.
 
- **Reverse Engineering Highlights:**
+🔬 **Reverse Engineering Highlights:**
 - Cracked the Gen 9 SCBlock/SCXorShift32 save structure with SHA256 footer verification and xorpad decryption
 - Ported the PKHeX `SpeciesConverter` to fix the Paldean ID divergence (Tarountula #917+ now display correctly, eliminating the "Dunsparce imposter" bug)
 - Built a legality-aware generator: real abilities, manual legal move picker (pulled from real learnsets), growth-correct EXP across all 6 curves, and a 26-ball picker with correct in-game IDs
@@ -97,6 +98,7 @@
 
 > *"I need to write up a small 'how to' document for my non-tech-savvy wife... Would you like me to post it here so you can use whatever part of it that you want for helping others?"*  
 > — **micaturtle**, Tech Support Pro & Community Collaborator *(After catching a folder naming bug in v1.4.0, they helped fix the release zip and volunteered to write an accessibility guide)*
+
 > *"Can someone please bring native PKHeX on switch with support for all gens... You got all my support my friend!"*  
 > — **z-shark**, Homebrew Community Member *(After seeing my ACNH editor, they confirmed native PKHeX-NX was exactly what the community needed)*
 
@@ -144,8 +146,9 @@
 
 **Features:**
 - 🧠 **Persistent Individual Minds** — Each creature has unique memory, personality, and relationship maps
-- ️ **Elected Governance** — Dynamic mayor elections with leadership scores and task assignment
-- 🤝 **Social Dynamics** — Creatures refuse tasks based on friendship levels, form alliances, and negotiate- ⏱️ **Time & Weather System** — Day/night cycles, weather effects, and resource management
+- 🏛️ **Elected Governance** — Dynamic mayor elections with leadership scores and task assignment
+- 🤝 **Social Dynamics** — Creatures refuse tasks based on friendship levels, form alliances, and negotiate
+- ⏱️ **Time & Weather System** — Day/night cycles, weather effects, and resource management
 
 ## 🤝 Recent Open-Source Contributions
 - **[r/SwitchPirates 23.0.0 Recovery Guide](https://www.reddit.com/r/SwitchPirates/s/9IyhbWkFE3)** — 13k+ views, 50+ shares, support thread with 27+ comments; maintained with a public corrections log and maintainer-verified fixes (bth, hexkyz).
@@ -162,7 +165,7 @@ I leverage my deep expertise in **reverse engineering**, **systems programming**
 ### ✍️ Technical Writing & Documentation
 *I translate complex low-level concepts into clear, actionable guides for developers and end-users.*
 - **Specialties:** Reverse engineering tutorials, API documentation, save-format breakdowns, and security best practices.
-- **Recent Work:** Authored the [r/SwitchPirates 23.0.0 Recovery Guide](https://www.reddit.com/r/SwitchPirates/s/9IyhbWkFE3) (13k+ views, my #6 post of all time on r/SwitchPirates) and contributed accessibility docs for [GitProfileLens](https://github.com/quangshuynh/gitprofilelens).
+- **Recent Work:** Authored the [r/SwitchPirates 23.0.0 Recovery Guide](https://www.reddit.com/r/SwitchPirates/s/9IyhbWkFE3) (13k+ views, #6 post of all time on r/SwitchPirates) and contributed accessibility docs for [GitProfileLens](https://github.com/quangshuynh/gitprofilelens).
 - **Ideal For:** Developer blogs, SDK documentation, and community-facing technical guides.
 
 ### 🐛 Bug Bounty Hunting & Security Auditing
@@ -178,7 +181,7 @@ I leverage my deep expertise in **reverse engineering**, **systems programming**
 - **Ideal For:** Automating internal dev-ops tasks, building custom diagnostic tools, or setting up secure, offline AI workflows.
 
 ---
-** Contact:** For inquiries, please reach out via [GitHub Issues](https://github.com/cbreezy210/cbreezy210/issues) or connect with me on [Bluesky](https://bsky.app/profile/cbreezy210.bsky.social).
+**📩 Contact:** For inquiries, please reach out via [GitHub Issues](https://github.com/cbreezy210/cbreezy210/issues) or connect with me on [Bluesky](https://bsky.app/profile/cbreezy210.bsky.social).
 
 ## 🧰 Open-Source Dev Tools
 ### [gh-network-scanner](https://github.com/cbreezy210/gh-network-scanner) 🕸️
@@ -194,6 +197,7 @@ I leverage my deep expertise in **reverse engineering**, **systems programming**
 - [GameBanana](https://gamebanana.com/members/5799686)
 - [Reddit](https://www.reddit.com/u/cbreezy210/s/ICYg6ZXcbK)
 - [Bluesky](https://bsky.app/profile/cbreezy210.bsky.social)
+
 ## 📊 GitHub Activity
 ![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cbreezy210&theme=radical&cachebust=30)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cbreezy210&theme=radical&hide_border=true)
@@ -202,7 +206,7 @@ I leverage my deep expertise in **reverse engineering**, **systems programming**
 ![Snake animation](https://raw.githubusercontent.com/cbreezy210/cbreezy210/output/github-snake-dark.svg)
 
 ---
-###  Support This Work
+### 💖 Support This Work
 I build native Switch homebrew, zero-dependency save editors, and local-first AI systems. All my tools are open-source, safety-first, and byte-verified. 
 
 If you've benefited from my work—whether it's rescuing a corrupted island, editing Pokémon saves on your Switch, or exploring local AI architecture—your support helps me keep building tools you can trust.
