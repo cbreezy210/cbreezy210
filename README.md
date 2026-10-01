@@ -155,7 +155,7 @@
 - **[GitProfileLens](https://github.com/quangshuynh/gitprofilelens) (Accessibility & Testing):** Implemented keyboard-accessible copy feedback with `aria-live` announcements and robust clipboard error handling. Rewrote unit tests to exercise real production handlers, ensuring deterministic success/failure paths.
 - **[Repo-Radar](https://github.com/quangshuynh/repo-radar) (Algorithmic Disambiguation):** Fixed a semantic collision in recommendation ranking where the "homebrew" keyword falsely matched macOS `brew` taps instead of Nintendo Switch homebrew projects, preserving relevance for console dev profiles.
 - **[flamoris-ai-agent](https://github.com/flamoris-jp/flamoris-ai-agent) (Phase 0 Validation & Architecture Impact):** Independently executed the full local acceptance checklist for a runtime-agnostic local AI agent on Windows. Identified critical friction points (UTF-8 encoding traps, API provider mismatches) which directly influenced the maintainer's architectural refactor ([PR #20](https://github.com/flamoris-jp/flamoris-ai-agent/pull/20)) for a neutral, environment-driven setup flow.
-- **[OpenNOW-Switch](https://github.com/OpenCloudGaming/OpenNOW-Switch) (Real Hardware QA):** Conducted deep hardware acceptance testing on modded Switch. Isolated a DTLS stream negotiation hang, validated the upstream fix (PR #37), and caught a critical global input regression (touch + Joy-Con HID) that CI missed, preventing a broken stable release.
+- **[OpenNOW-Switch](https://github.com/OpenCloudGaming/OpenNOW-Switch) (Real Hardware QA):** Conducted deep hardware acceptance testing on modded Switch. Isolated a DTLS stream negotiation hang, validated the upstream fix (PR #37), caught a critical global input regression that CI missed (preventing a broken stable release), and subsequently isolated a session handoff crash in PR #39 that blocks stream initialization.
 - **[Dusklight](https://github.com/HayatoG/dusklight) (Release Engineering):** Diagnosed a version mismatch between the `.nro` NACP metadata and the in-game menu (`git describe --dirty`). Proposed three distinct CMake/release pipeline solutions, drawing from direct experience shipping `PKHeX-NX`.
 
 ## 💼 Available for Freelance & Contract Work
@@ -171,7 +171,7 @@ I leverage my deep expertise in **reverse engineering**, **systems programming**
 ### 🐛 Bug Bounty Hunting & Security Auditing
 *I find the edge cases that CI pipelines miss, focusing on memory safety, crypto implementations, and file system integrity.*
 - **Specialties:** Native application hardening, hash verification logic, NAND/file-system commit mechanisms (`fsFsCommit()`), and local AI model security.
-- **Track Record:** Identified critical input regressions in [OpenNOW-Switch](https://github.com/OpenCloudGaming/OpenNOW-Switch) and architectural friction points in [flamoris-ai-agent](https://github.com/flamoris-jp/flamoris-ai-agent).
+- **Track Record:** Identified critical input regressions and session-handoff crashes in [OpenNOW-Switch](https://github.com/OpenCloudGaming/OpenNOW-Switch), and architectural friction points in [flamoris-ai-agent](https://github.com/flamoris-jp/flamoris-ai-agent).
 - **Ideal For:** Pre-release security audits, homebrew tool hardening, and local-first AI application testing.
 
 ### 🛠️ Specialized IT Support & Systems Engineering
