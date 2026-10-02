@@ -170,7 +170,7 @@ I leverage my deep expertise in **reverse engineering**, **systems programming**
 
 ### 🐛 Bug Bounty Hunting & Security Auditing
 *I find the edge cases that CI pipelines miss, focusing on memory safety, crypto implementations, and file system integrity.*
-- **Specialties:** Native application hardening, hash verification logic, NAND/file-system commit mechanisms (`fsFsCommit()`), and local AI model security.
+- **Specialties:** Native application hardening, hash verification logic, NAND/file-system commit mechanisms (fsFsCommit()), Horizon OS crash-screen decoding (sysmodule Title ID mapping), and IPC interface reverse engineering.
 - **Track Record:** Identified critical input regressions and session-handoff crashes in [OpenNOW-Switch](https://github.com/OpenCloudGaming/OpenNOW-Switch), and architectural friction points in [flamoris-ai-agent](https://github.com/flamoris-jp/flamoris-ai-agent).
 - **Ideal For:** Pre-release security audits, homebrew tool hardening, and local-first AI application testing.
 
