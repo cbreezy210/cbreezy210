@@ -47,8 +47,7 @@
 
 ### [PKHeX-NX](https://github.com/cbreezy210/PKHeX-NX) 🔴⚪️
 ![PKHeX-NX Stars](https://img.shields.io/github/stars/cbreezy210/PKHeX-NX?style=flat-square&logo=github&color=yellow)
-![GitHub Downloads](https://img.shields.io/github/downloads/cbreezy210/PKHeX-NX/total?style=flat-square&logo=github&color=orange)
-![Latest Release](https://img.shields.io/github/v/release/cbreezy210/PKHeX-NX?include_prereleases&style=flat-square&logo=github&color=blueviolet)
+![GitHub Downloads](https://img.shields.io/github/downloads/cbreezy210/PKHeX-NX/total?style=flat-square&logo=github&color=orange)![Latest Release](https://img.shields.io/github/v/release/cbreezy210/PKHeX-NX?include_prereleases&style=flat-square&logo=github&color=blueviolet)
 ![License](https://img.shields.io/github/license/cbreezy210/PKHeX-NX?style=flat-square&color=blue)
 
 **Public Beta & actively hardening:** **A 100% native Switch save editor for Pokémon Scarlet & Violet — built with open-source C++, byte-verified backups, and dual-file commit safety.** — no PC, no save dumping, no bridges. v0.9.5 QoL sprint live; part of the 1,000+ combined downloads milestone across the native save editor portfolio.
@@ -67,7 +66,7 @@
 ![ACNH Stars](https://img.shields.io/github/stars/cbreezy210/ACNH-Save-Editor?style=flat-square&logo=github&color=yellow)
 ![GitHub Downloads](https://img.shields.io/github/downloads/cbreezy210/ACNH-Save-Editor/total?style=flat-square&logo=github&color=orange)
 ![GameBanana](https://img.shields.io/badge/GameBanana-289%2B%20Downloads-F5A623?style=flat-square&logo=gamebanana&logoColor=white)
-![Latest Release](https://img.shields.io/github/v/release/cbreezy210/ACNH-Save-Editor?style=flat-square&logo=github&color=blueviolet)
+![Latest Release](https://img.shields.io/github/v/release/cbreezy210/ACNH-Save-Editor?include_prereleases&style=flat-square&logo=github&color=blueviolet)
 ![License](https://img.shields.io/github/license/cbreezy210/ACNH-Save-Editor?style=flat-square&color=blue)
 
 **Shipped & stable:** The first 100% native Switch save editor for Animal Crossing: New Horizons — no PC, no save dumping, no bridges. v1.4.0 live with 1,000+ combined downloads across GitHub + GameBanana; v1.5.0 Room Decorations Injector in active development.
@@ -95,6 +94,9 @@
 
 > *"I told my niece I corrupted her island... she dubbed you 'Corrupt Bro'. Restoring the Zelda save sounds complicated so I think I'm going to stop but I'm happy the switch is working again. Again, you're an awesome person for taking the time to help me troubleshoot."*  
 > — **igomhn3**, ACNH-Save-Editor User *(after a successful NAND rescue! 😎) (shared with permission)*
+
+> *"Thanks for the heads up on the dvr patches. I don't have any reason to update my emummc right now but when I do update it and my games crash, I'll know why"*  
+> — **SwellEquis**, r/SwitchPirates *(after the am/0x23 crash-screen decode — preventative harm reduction working in the wild)*
 
 > *"I need to write up a small 'how to' document for my non-tech-savvy wife... Would you like me to post it here so you can use whatever part of it that you want for helping others?"*  
 > — **micaturtle**, Tech Support Pro & Community Collaborator *(After catching a folder naming bug in v1.4.0, they helped fix the release zip and volunteered to write an accessibility guide)*
@@ -144,14 +146,13 @@
 <em>Emergent colony governance with elected mayors, task delegation, and persistent creature relationships</em>
 </p>
 
-**Features:**
-- 🧠 **Persistent Individual Minds** — Each creature has unique memory, personality, and relationship maps
+**Features:**- 🧠 **Persistent Individual Minds** — Each creature has unique memory, personality, and relationship maps
 - 🏛️ **Elected Governance** — Dynamic mayor elections with leadership scores and task assignment
 - 🤝 **Social Dynamics** — Creatures refuse tasks based on friendship levels, form alliances, and negotiate
 - ⏱️ **Time & Weather System** — Day/night cycles, weather effects, and resource management
 
 ## 🤝 Recent Open-Source Contributions
-- **[r/SwitchPirates 23.0.0 Recovery Guide](https://www.reddit.com/r/SwitchPirates/s/9IyhbWkFE3)** 16k+ views, 50+ shares, support thread with 30+ comments; maintained with a public corrections log and maintainer-verified fixes (bth, hexkyz).
+- **[r/SwitchPirates 23.0.0 Recovery Guide](https://www.reddit.com/r/SwitchPirates/s/9IyhbWkFE3)** 16.5k+ views, 58 shares, 34-comment support thread; #1 post of all time on r/SwitchPirates; maintained with a public corrections log and maintainer-verified fixes (bth, hexkyz).
 - **[GitProfileLens](https://github.com/quangshuynh/gitprofilelens) (Accessibility & Testing):** Implemented keyboard-accessible copy feedback with `aria-live` announcements and robust clipboard error handling. Rewrote unit tests to exercise real production handlers, ensuring deterministic success/failure paths.
 - **[Repo-Radar](https://github.com/quangshuynh/repo-radar) (Algorithmic Disambiguation):** Fixed a semantic collision in recommendation ranking where the "homebrew" keyword falsely matched macOS `brew` taps instead of Nintendo Switch homebrew projects, preserving relevance for console dev profiles.
 - **[flamoris-ai-agent](https://github.com/flamoris-jp/flamoris-ai-agent) (Phase 0 Validation & Architecture Impact):** Independently executed the full local acceptance checklist for a runtime-agnostic local AI agent on Windows. Identified critical friction points (UTF-8 encoding traps, API provider mismatches) which directly influenced the maintainer's architectural refactor ([PR #20](https://github.com/flamoris-jp/flamoris-ai-agent/pull/20)) for a neutral, environment-driven setup flow.
@@ -165,12 +166,12 @@ I leverage my deep expertise in **reverse engineering**, **systems programming**
 ### ✍️ Technical Writing & Documentation
 *I translate complex low-level concepts into clear, actionable guides for developers and end-users.*
 - **Specialties:** Reverse engineering tutorials, API documentation, save-format breakdowns, and security best practices.
-- **Recent Work:** Authored the [r/SwitchPirates 23.0.0 Recovery Guide](https://www.reddit.com/r/SwitchPirates/s/9IyhbWkFE3) (16k+ views, #4 post of all time on r/SwitchPirates) and contributed accessibility docs for [GitProfileLens](https://github.com/quangshuynh/gitprofilelens).
+- **Recent Work:** Authored the [r/SwitchPirates 23.0.0 Recovery Guide](https://www.reddit.com/r/SwitchPirates/s/9IyhbWkFE3) (16.5k+ views, #1 post of all time on r/SwitchPirates) and contributed accessibility docs for [GitProfileLens](https://github.com/quangshuynh/gitprofilelens).
 - **Ideal For:** Developer blogs, SDK documentation, and community-facing technical guides.
 
 ### 🐛 Bug Bounty Hunting & Security Auditing
 *I find the edge cases that CI pipelines miss, focusing on memory safety, crypto implementations, and file system integrity.*
-- **Specialties:** Native application hardening, hash verification logic, NAND/file-system commit mechanisms (fsFsCommit()), Horizon OS crash-screen decoding (sysmodule Title ID mapping), and IPC interface reverse engineering.
+- **Specialties:** Native application hardening, hash verification logic, NAND/file-system commit mechanisms (`fsFsCommit()`), Horizon OS crash-screen decoding (sysmodule Title ID mapping), and IPC interface reverse engineering.
 - **Track Record:** Identified critical input regressions and session-handoff crashes in [OpenNOW-Switch](https://github.com/OpenCloudGaming/OpenNOW-Switch), and architectural friction points in [flamoris-ai-agent](https://github.com/flamoris-jp/flamoris-ai-agent).
 - **Ideal For:** Pre-release security audits, homebrew tool hardening, and local-first AI application testing.
 
@@ -194,8 +195,7 @@ I leverage my deep expertise in **reverse engineering**, **systems programming**
 
 ## 🔗 Find Me
 - [GBATemp](https://gbatemp.net/members/cbreezy210.619217/)
-- [GameBanana](https://gamebanana.com/members/5799686)
-- [Reddit](https://www.reddit.com/u/cbreezy210/s/ICYg6ZXcbK)
+- [GameBanana](https://gamebanana.com/members/5799686)- [Reddit](https://www.reddit.com/u/cbreezy210/s/ICYg6ZXcbK)
 - [Bluesky](https://bsky.app/profile/cbreezy210.bsky.social)
 
 ## 📊 GitHub Activity
