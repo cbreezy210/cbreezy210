@@ -165,7 +165,7 @@ I leverage my deep expertise in **reverse engineering**, **systems programming**
 ### ✍️ Technical Writing & Documentation
 *I translate complex low-level concepts into clear, actionable guides for developers and end-users.*
 - **Specialties:** Reverse engineering tutorials, API documentation, save-format breakdowns, and security best practices.
-- **Recent Work:** Authored the [r/SwitchPirates 23.0.0 Recovery Guide](https://www.reddit.com/r/SwitchPirates/s/9IyhbWkFE3) (16k+ views, #5 post of all time on r/SwitchPirates) and contributed accessibility docs for [GitProfileLens](https://github.com/quangshuynh/gitprofilelens).
+- **Recent Work:** Authored the [r/SwitchPirates 23.0.0 Recovery Guide](https://www.reddit.com/r/SwitchPirates/s/9IyhbWkFE3) (16k+ views, #4 post of all time on r/SwitchPirates) and contributed accessibility docs for [GitProfileLens](https://github.com/quangshuynh/gitprofilelens).
 - **Ideal For:** Developer blogs, SDK documentation, and community-facing technical guides.
 
 ### 🐛 Bug Bounty Hunting & Security Auditing
