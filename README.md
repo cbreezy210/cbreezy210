@@ -28,7 +28,6 @@
 - ⭐ **TimeStranger-NX** - Digimon Story: Time Stranger Save Editor. Direct NAND FS access successfully implemented (no bridge required!). Currently adding advanced features before public release 🎮💾🔥
 - ⭐ **PKHeX-NX** - Native Pokémon SV Save Editor. v0.9.5 LIVE! 🚀 | Community Discord coming soon
 - ⭐ **ACNH-Save-Editor** - Shipped v1.4.0; currently developing the v1.5.0 Room Decorations Injector
-- ⭐ **Nextendo Safe-Online Validation Pipeline** - Validated Prelude-Nro v3.5.6+ integration with byte-verified save editors for multiplayer testing on FW 23.0.x. Documented `nim`/0x25 crash signatures and PRODINFO blanking protocols for community safety. ([Prelude-Nro #42](https://github.com/NextendoNetwork/Prelude-Nro/issues/42) | [Prelude-Nro #44](https://github.com/NextendoNetwork/Prelude-Nro/issues/44))
 - **A.X.I.O.M. v2** - Autonomous Local AI OS | Uncensored Dungeon Master (persistent world state, combat, lore RAG), Brutal Interview Simulator, and PC Diagnostic Agent (runs offline via Ollama/ChromaDB) 🐉💻
 - **Creature_AI_Prototype** - Multi-agent ecosystem simulation with persistent individual minds, emergent social dynamics, elected governance, and task delegation 🐾
 - **All-in-One Tech Tools** - Bootable USB app for computer diagnosis & repair (In development, release TBD) 🛠️💻
