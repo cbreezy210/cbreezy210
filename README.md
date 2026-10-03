@@ -65,7 +65,7 @@
 ### [ACNH-Save-Editor](https://github.com/cbreezy210/ACNH-Save-Editor) 🍃
 ![ACNH Stars](https://img.shields.io/github/stars/cbreezy210/ACNH-Save-Editor?style=flat-square&logo=github&color=yellow&cachebust=2)
 ![GitHub Downloads](https://img.shields.io/github/downloads/cbreezy210/ACNH-Save-Editor/total?style=flat-square&logo=github&color=orange&cachebust=2)
-![GameBanana](https://img.shields.io/badge/GameBanana-291%2B%20Downloads-F5A623?style=flat-square&logo=gamebanana&logoColor=white)
+![GameBanana](https://img.shields.io/badge/GameBanana-293%2B%20Downloads-F5A623?style=flat-square&logo=gamebanana&logoColor=white)
 ![Latest Release](https://img.shields.io/github/v/release/cbreezy210/ACNH-Save-Editor?include_prereleases&style=flat-square&logo=github&color=blueviolet&cachebust=2)
 ![License](https://img.shields.io/github/license/cbreezy210/ACNH-Save-Editor?style=flat-square&color=blue&cachebust=2)
 
