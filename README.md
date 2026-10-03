@@ -12,7 +12,7 @@
 
 ## 🔧 What I Do
 - Developing native save editors and homebrew for Nintendo Switch 🎮
-- Reverse engineering game save formats and file structures 🕵️♂️
+- Reverse engineering game save formats and file structures 🕵️️
 - Building local, privacy-focused AI modules (A.X.I.O.M.) 🧠
 - Creating low-level system diagnostic and repair tools 💻
 - Shipping zero-dependency open-source developer tools & network analysis utilities 🧰
@@ -25,7 +25,7 @@
 ![AI/LLM](https://img.shields.io/badge/AI/LLM-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 
 ## 🚀 Currently Working On
-- ⭐ **TimeStranger-NX** - Digimon Story: Time Stranger Save Editor. Direct NAND FS access successfully implemented (no bridge required!). Currently adding advanced features before public release 🎮🔥
+- ⭐ **TimeStranger-NX** - Digimon Story: Time Stranger Save Editor. Direct NAND FS access successfully implemented (no bridge required!). Currently adding advanced features before public release 🎮
 - ⭐ **PKHeX-NX** - Native Pokémon SV Save Editor. v0.9.5 LIVE! 🚀 | Community Discord coming soon
 - ⭐ **ACNH-Save-Editor** - Shipped v1.4.0; currently developing the v1.5.0 Room Decorations Injector
 - **A.X.I.O.M. v2** - Autonomous Local AI OS | Uncensored Dungeon Master (persistent world state, combat, lore RAG), Brutal Interview Simulator, and PC Diagnostic Agent (runs offline via Ollama/ChromaDB) 🐉💻
@@ -34,9 +34,9 @@
 
 ## 🎮 My Projects
 ### [TimeStranger-NX](https://github.com/cbreezy210/TimeStranger-NX) 💩
-![TimeStranger-NX Stars](https://img.shields.io/github/stars/cbreezy210/TimeStranger-NX?style=flat-square&logo=github&color=yellow)
+![TimeStranger-NX Stars](https://img.shields.io/github/stars/cbreezy210/TimeStranger-NX?style=flat-square&logo=github&color=yellow&cachebust=2)
 ![Status](https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square)
-![License](https://img.shields.io/github/license/cbreezy210/TimeStranger-NX?style=flat-square&color=blue&cachebust=1)
+![License](https://img.shields.io/github/license/cbreezy210/TimeStranger-NX?style=flat-square&color=blue&cachebust=2)
 
 **Currently in active development:** The first native Switch save editor for Digimon Story: Time Stranger. Successfully achieved direct NAND injection (no bridge required!). Building out advanced features before public release.
 
@@ -46,9 +46,9 @@
 - Built custom hex-scanners to diff save dumps and locate offsets/checksums automatically
 
 ### [PKHeX-NX](https://github.com/cbreezy210/PKHeX-NX) 🔴⚪️
-![PKHeX-NX Stars](https://img.shields.io/github/stars/cbreezy210/PKHeX-NX?style=flat-square&logo=github&color=yellow)
-![GitHub Downloads](https://img.shields.io/github/downloads/cbreezy210/PKHeX-NX/total?style=flat-square&logo=github&color=orange)![Latest Release](https://img.shields.io/github/v/release/cbreezy210/PKHeX-NX?include_prereleases&style=flat-square&logo=github&color=blueviolet)
-![License](https://img.shields.io/github/license/cbreezy210/PKHeX-NX?style=flat-square&color=blue)
+![PKHeX-NX Stars](https://img.shields.io/github/stars/cbreezy210/PKHeX-NX?style=flat-square&logo=github&color=yellow&cachebust=2)
+![GitHub Downloads](https://img.shields.io/github/downloads/cbreezy210/PKHeX-NX/total?style=flat-square&logo=github&color=orange&cachebust=2)![Latest Release](https://img.shields.io/github/v/release/cbreezy210/PKHeX-NX?include_prereleases&style=flat-square&logo=github&color=blueviolet&cachebust=2)
+![License](https://img.shields.io/github/license/cbreezy210/PKHeX-NX?style=flat-square&color=blue&cachebust=2)
 
 **Public Beta & actively hardening:** **A 100% native Switch save editor for Pokémon Scarlet & Violet — built with open-source C++, byte-verified backups, and dual-file commit safety.** — no PC, no save dumping, no bridges. v0.9.5 QoL sprint live; part of the 1,500+ downloads served across all projects.
 
@@ -63,11 +63,11 @@
 💬 [GBATemp Release Thread](https://gbatemp.net/threads/homebrew-app-pkhex-nx-native-switch-pokemon-save-editor-scarlet-violet-devlog-sneak-peek.684125/)
 
 ### [ACNH-Save-Editor](https://github.com/cbreezy210/ACNH-Save-Editor) 🍃
-![ACNH Stars](https://img.shields.io/github/stars/cbreezy210/ACNH-Save-Editor?style=flat-square&logo=github&color=yellow)
-![GitHub Downloads](https://img.shields.io/github/downloads/cbreezy210/ACNH-Save-Editor/total?style=flat-square&logo=github&color=orange)
+![ACNH Stars](https://img.shields.io/github/stars/cbreezy210/ACNH-Save-Editor?style=flat-square&logo=github&color=yellow&cachebust=2)
+![GitHub Downloads](https://img.shields.io/github/downloads/cbreezy210/ACNH-Save-Editor/total?style=flat-square&logo=github&color=orange&cachebust=2)
 ![GameBanana](https://img.shields.io/badge/GameBanana-291%2B%20Downloads-F5A623?style=flat-square&logo=gamebanana&logoColor=white)
-![Latest Release](https://img.shields.io/github/v/release/cbreezy210/ACNH-Save-Editor?include_prereleases&style=flat-square&logo=github&color=blueviolet)
-![License](https://img.shields.io/github/license/cbreezy210/ACNH-Save-Editor?style=flat-square&color=blue)
+![Latest Release](https://img.shields.io/github/v/release/cbreezy210/ACNH-Save-Editor?include_prereleases&style=flat-square&logo=github&color=blueviolet&cachebust=2)
+![License](https://img.shields.io/github/license/cbreezy210/ACNH-Save-Editor?style=flat-square&color=blue&cachebust=2)
 
 **Shipped & stable:** The first 100% native Switch save editor for Animal Crossing: New Horizons — no PC, no save dumping, no bridges. v1.4.0 live; part of the 1,500+ downloads served across all projects (GitHub + GameBanana); v1.5.0 Room Decorations Injector in active development.
 
@@ -153,7 +153,7 @@
 - ⏱️ **Time & Weather System** — Day/night cycles, weather effects, and resource management
 
 ## 🤝 Recent Open-Source Contributions
-- **[r/SwitchPirates 23.0.0 Recovery Guide](https://www.reddit.com/r/SwitchPirates/comments/1qXXXXX/fw_2300_atmosphere_1120_fixed_the_yellow_screen/)** 17k+ views, 60+ shares, 35-comment support thread; #1 post of all time on r/SwitchPirates; maintained with a public corrections log and maintainer-verified fixes (bth, hexkyz).
+- **[r/SwitchPirates 23.0.0 Recovery Guide](https://www.reddit.com/r/SwitchPirates/comments/1wtuu8e/fw_2300_atmosphere_1120_fixed_the_yellow_screen/)** 17k+ views, 60+ shares, 30+ comment support thread; #1 post of all time on r/SwitchPirates; maintained with a public corrections log and maintainer-verified fixes (bth, hexkyz).
 - **[GitProfileLens](https://github.com/quangshuynh/gitprofilelens) (Accessibility & Testing):** Implemented keyboard-accessible copy feedback with `aria-live` announcements and robust clipboard error handling. Rewrote unit tests to exercise real production handlers, ensuring deterministic success/failure paths.
 - **[Repo-Radar](https://github.com/quangshuynh/repo-radar) (Algorithmic Disambiguation):** Fixed a semantic collision in recommendation ranking where the "homebrew" keyword falsely matched macOS `brew` taps instead of Nintendo Switch homebrew projects, preserving relevance for console dev profiles.
 - **[flamoris-ai-agent](https://github.com/flamoris-jp/flamoris-ai-agent) (Phase 0 Validation & Architecture Impact):** Independently executed the full local acceptance checklist for a runtime-agnostic local AI agent on Windows. Identified critical friction points (UTF-8 encoding traps, API provider mismatches) which directly influenced the maintainer's architectural refactor ([PR #20](https://github.com/flamoris-jp/flamoris-ai-agent/pull/20)) for a neutral, environment-driven setup flow.
@@ -167,7 +167,7 @@ I leverage my deep expertise in **reverse engineering**, **systems programming**
 ### ✍️ Technical Writing & Documentation
 *I translate complex low-level concepts into clear, actionable guides for developers and end-users.*
 - **Specialties:** Reverse engineering tutorials, API documentation, save-format breakdowns, and security best practices.
-- **Recent Work:** Authored the [r/SwitchPirates 23.0.0 Recovery Guide](https://www.reddit.com/r/SwitchPirates/comments/1qXXXXX/fw_2300_atmosphere_1120_fixed_the_yellow_screen/) (17k+ views, 60+ shares, #1 post of all time on r/SwitchPirates) and contributed accessibility docs for [GitProfileLens](https://github.com/quangshuynh/gitprofilelens).
+- **Recent Work:** Authored the [r/SwitchPirates 23.0.0 Recovery Guide](https://www.reddit.com/r/SwitchPirates/comments/1wtuu8e/fw_2300_atmosphere_1120_fixed_the_yellow_screen/) (17k+ views, 60+ shares, #1 post of all time on r/SwitchPirates) and contributed accessibility docs for [GitProfileLens](https://github.com/quangshuynh/gitprofilelens).
 - **Ideal For:** Developer blogs, SDK documentation, and community-facing technical guides.
 
 ### 🐛 Bug Bounty Hunting & Security Auditing
@@ -187,8 +187,8 @@ I leverage my deep expertise in **reverse engineering**, **systems programming**
 
 ## 🧰 Open-Source Dev Tools
 ### [gh-network-scanner](https://github.com/cbreezy210/gh-network-scanner) 🕸️
-![Scanner Stars](https://img.shields.io/github/stars/cbreezy210/gh-network-scanner?style=flat-square&logo=github&color=yellow)
-![License](https://img.shields.io/github/license/cbreezy210/gh-network-scanner?style=flat-square&color=blue)
+![Scanner Stars](https://img.shields.io/github/stars/cbreezy210/gh-network-scanner?style=flat-square&logo=github&color=yellow&cachebust=2)
+![License](https://img.shields.io/github/license/cbreezy210/gh-network-scanner?style=flat-square&color=blue&cachebust=2)
 ![Python](https://img.shields.io/badge/Python-stdlib-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Zero Dependencies](https://img.shields.io/badge/Dependencies-Zero-239120?style=flat-square)
 
