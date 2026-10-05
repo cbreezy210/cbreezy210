@@ -153,7 +153,7 @@
 - ⏱️ **Time & Weather System** — Day/night cycles, weather effects, and resource management
 
 ## 🤝 Recent Open-Source Contributions
-- **[r/SwitchPirates 23.0.0 Recovery Guide](https://www.reddit.com/r/SwitchPirates/comments/1wtuu8e/fw_2300_atmosphere_1120_fixed_the_yellow_screen/)** 18k+ views, 60+ shares, 30+ comment support thread; #1 post of all time on r/SwitchPirates; maintained with a public corrections log and maintainer-verified fixes (bth, hexkyz).
+- **[r/SwitchPirates 23.0.0 Recovery Guide](https://www.reddit.com/r/SwitchPirates/comments/1wtuu8e/fw_2300_atmosphere_1120_fixed_the_yellow_screen/)** 20k+ views, 70+ shares, 35+ comment support thread; #1 post of all time on r/SwitchPirates; maintained with a public corrections log and maintainer-verified fixes (bth, hexkyz).
 - **[GitProfileLens](https://github.com/quangshuynh/gitprofilelens) (Accessibility & Testing):** Implemented keyboard-accessible copy feedback with `aria-live` announcements and robust clipboard error handling. Rewrote unit tests to exercise real production handlers, ensuring deterministic success/failure paths.
 - **[Repo-Radar](https://github.com/quangshuynh/repo-radar) (Algorithmic Disambiguation):** Fixed a semantic collision in recommendation ranking where the "homebrew" keyword falsely matched macOS `brew` taps instead of Nintendo Switch homebrew projects, preserving relevance for console dev profiles.
 - **[flamoris-ai-agent](https://github.com/flamoris-jp/flamoris-ai-agent) (Phase 0 Validation & Architecture Impact):** Independently executed the full local acceptance checklist for a runtime-agnostic local AI agent on Windows. Identified critical friction points (UTF-8 encoding traps, API provider mismatches) which directly influenced the maintainer's architectural refactor ([PR #20](https://github.com/flamoris-jp/flamoris-ai-agent/pull/20)) for a neutral, environment-driven setup flow.
@@ -167,7 +167,7 @@ I leverage my deep expertise in **reverse engineering**, **systems programming**
 ### ✍️ Technical Writing & Documentation
 *I translate complex low-level concepts into clear, actionable guides for developers and end-users.*
 - **Specialties:** Reverse engineering tutorials, API documentation, save-format breakdowns, and security best practices.
-- **Recent Work:** Authored the [r/SwitchPirates 23.0.0 Recovery Guide](https://www.reddit.com/r/SwitchPirates/comments/1wtuu8e/fw_2300_atmosphere_1120_fixed_the_yellow_screen/) (18k+ views, 60+ shares, #1 post of all time on r/SwitchPirates) and contributed accessibility docs for [GitProfileLens](https://github.com/quangshuynh/gitprofilelens).
+- **Recent Work:** Authored the [r/SwitchPirates 23.0.0 Recovery Guide](https://www.reddit.com/r/SwitchPirates/comments/1wtuu8e/fw_2300_atmosphere_1120_fixed_the_yellow_screen/) (20k+ views, 70+ shares, #1 post of all time on r/SwitchPirates) and contributed accessibility docs for [GitProfileLens](https://github.com/quangshuynh/gitprofilelens).
 - **Ideal For:** Developer blogs, SDK documentation, and community-facing technical guides.
 
 ### 🐛 Bug Bounty Hunting & Security Auditing
