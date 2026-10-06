@@ -50,7 +50,7 @@
 ![GitHub Downloads](https://img.shields.io/github/downloads/cbreezy210/PKHeX-NX/total?style=flat-square&logo=github&color=orange&cachebust=2)![Latest Release](https://img.shields.io/github/v/release/cbreezy210/PKHeX-NX?include_prereleases&style=flat-square&logo=github&color=blueviolet&cachebust=2)
 ![License](https://img.shields.io/github/license/cbreezy210/PKHeX-NX?style=flat-square&color=blue&cachebust=2)
 
-**Public Beta & actively hardening:** **A 100% native Switch save editor for Pokémon Scarlet & Violet — built with open-source C++, byte-verified backups, and dual-file commit safety.** — no PC, no save dumping, no bridges. v0.9.5 QoL sprint live; part of the 1,500+ downloads served across all projects.
+**Public Beta & actively hardening:** **A 100% native Switch save editor for Pokémon Scarlet & Violet — built with open-source C++, byte-verified backups, and dual-file commit safety.** — no PC, no save dumping, no bridges. v0.9.5 QoL sprint live; part of the 1,600+ downloads served across all projects.
 
 🔬 **Reverse Engineering Highlights:**
 - Cracked the Gen 9 SCBlock/SCXorShift32 save structure with SHA256 footer verification and xorpad decryption
@@ -69,7 +69,7 @@
 ![Latest Release](https://img.shields.io/github/v/release/cbreezy210/ACNH-Save-Editor?include_prereleases&style=flat-square&logo=github&color=blueviolet&cachebust=2)
 ![License](https://img.shields.io/github/license/cbreezy210/ACNH-Save-Editor?style=flat-square&color=blue&cachebust=2)
 
-**Shipped & stable:** The first 100% native Switch save editor for Animal Crossing: New Horizons — no PC, no save dumping, no bridges. v1.4.0 live; part of the 1,500+ downloads served across all projects (GitHub + GameBanana); v1.5.0 Room Decorations Injector in active development.
+**Shipped & stable:** The first 100% native Switch save editor for Animal Crossing: New Horizons — no PC, no save dumping, no bridges. v1.4.0 live; part of the 1,600+ downloads served across all projects (GitHub + GameBanana); v1.5.0 Room Decorations Injector in active development.
 
 🔬 **Reverse Engineering Highlights:**
 - Cracked the AES-encrypted economy integers (Wallet, Bank, Nook Miles, Loan) split across `personal.dat` (per-resident) and `main.dat` (per-island)
