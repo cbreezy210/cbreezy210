@@ -52,7 +52,7 @@
 ![Latest Release](https://img.shields.io/github/v/release/cbreezy210/PKHeX-NX?include_prereleases&style=flat-square&logo=github&color=blueviolet&cachebust=2)
 ![License](https://img.shields.io/github/license/cbreezy210/PKHeX-NX?style=flat-square&color=blue&cachebust=2)
 
-**Public Beta & actively hardening:** **A 100% native Switch save editor for Pokémon Scarlet & Violet — built with open-source C++, byte-verified backups, and dual-file commit safety.** — no PC, no save dumping, no bridges. v0.9.5 QoL sprint live; 248+ downloads, contributing to the 1,680+ total served across all projects.
+**Public Beta & actively hardening:** **A 100% native Switch save editor for Pokémon Scarlet & Violet — built with open-source C++, byte-verified backups, and dual-file commit safety.** — no PC, no save dumping, no bridges. v0.9.5 QoL sprint live; 254+ downloads, contributing to the 1,680+ total served across all projects.
 
 🔬 **Reverse Engineering Highlights:**
 - Cracked the Gen 9 SCBlock/SCXorShift32 save structure with SHA256 footer verification and xorpad decryption
