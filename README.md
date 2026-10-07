@@ -25,7 +25,7 @@
 ![AI/LLM](https://img.shields.io/badge/AI/LLM-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 
 ## 🚀 Currently Working On
--  **Fallout: Evolution** - Fallout-themed Pokémon ROM hack ([pokeemerald-expansion](https://github.com/pret/pokeemerald-expansion)) led by **abelardthebard**. Contributing native creature design, SPECIAL perk integration, and expansion engine mapping. Early-game batch in development. 🦴
+- ⭐ **Fallout: Evolution** - Fallout-themed Pokémon ROM hack ([pokeemerald-expansion](https://github.com/rh-hideout/pokeemerald-expansion)) led by **abelardthebard**. Contributing native creature design, SPECIAL perk integration, and expansion engine mapping. Early-game batch in development. 🦴
 - ⭐ **TimeStranger-NX** - Digimon Story: Time Stranger Save Editor. Direct NAND FS access successfully implemented (no bridge required!). Currently adding advanced features before public release. 💩
 - ⭐ **PKHeX-NX** - Native Pokémon SV Save Editor. v0.9.5 LIVE! 🚀 | 248+ downloads | Community Discord coming soon. 🔴⚪
 - ⭐ **ACNH-Save-Editor** - Shipped v1.4.0; currently developing the v1.5.0 Room Decorations Injector. 🍃
