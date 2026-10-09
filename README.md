@@ -11,12 +11,14 @@
 ## 📈 **1,700+ downloads served** across all projects!
 
 ## 🔧 What I Do
+- Designing creature stats, abilities, and type-chart balancing for ROM hacks 📊
 - Developing native save editors and homebrew for Nintendo Switch 🎮
-- Reverse engineering game save formats and file structures 🕵️️
+- Reverse engineering game save formats and file structures 🕵️‍♂️
 - Building local, privacy-focused AI modules (A.X.I.O.M.) 🧠
 - Creating low-level system diagnostic and repair tools 💻
 - Shipping zero-dependency open-source developer tools & network analysis utilities 🧰
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -25,7 +27,7 @@
 ![AI/LLM](https://img.shields.io/badge/AI/LLM-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 
 ## 🚀 Currently Working On
-- ⭐ **Fallout: Evolution** - Fallout-themed Pokémon ROM hack ([pokeemerald-expansion](https://github.com/rh-hideout/pokeemerald-expansion)) led by **abelardthebard**. Contributing native creature design, SPECIAL perk integration, and expansion engine mapping. Early-game batch in development. 🦴
+- ⭐ **Fallout: Evolution** - Fallout-themed Pokémon ROM hack ([pokeemerald-expansion](https://github.com/rh-hideout/pokeemerald-expansion)) led by **abelardthebard**. Contributing creature design, BST/stat balancing, lore-to-mechanics ability mapping, and type-chart optimization. Currently locking in the early-game batch (Dogmeat starter branches, Mutant Hound lines, and lore-accurate abilities). 🦴
 - ⭐ **TimeStranger-NX** - Digimon Story: Time Stranger Save Editor. Direct NAND FS access successfully implemented (no bridge required!). Currently adding advanced features before public release. 💩
 - ⭐ **PKHeX-NX** - Native Pokémon SV Save Editor. v0.9.5 LIVE! 🚀 | 248+ downloads | Community Discord coming soon. 🔴⚪
 - ⭐ **ACNH-Save-Editor** - Shipped v1.4.0; currently developing the v1.5.0 Room Decorations Injector. 🍃
@@ -88,26 +90,14 @@
 > *"Your Phase 0 feedback helped us catch exactly the kind of portability issues we wanted to eliminate."*  
 > — **akino-nanto**, flamoris-ai-agent maintainer *(on PR #20, which merged the refactor my Phase 0 testing triggered)*
 
-> *"direct NAND save interaction is fucking sick"*  
-> — **u/Duffmcmcmcwhalen**, r/SwitchHacks *(on the TimeStranger-NX devlog)*
-
-> *"YO THIS IS INSANE. HUGE PROPS"*  
-> — **u/riskyjones**, r/SwitchHacks *(on the TimeStranger-NX devlog)*
-
 > *"I told my niece I corrupted her island... she dubbed you 'Corrupt Bro'. Restoring the Zelda save sounds complicated so I think I'm going to stop but I'm happy the switch is working again. Again, you're an awesome person for taking the time to help me troubleshoot."*  
 > — **igomhn3**, ACNH-Save-Editor User *(after a successful NAND rescue! 😎) (shared with permission)*
 
 > *"Thanks for the heads up on the dvr patches. I don't have any reason to update my emummc right now but when I do update it and my games crash, I'll know why"*  
 > — **SwellEquis**, r/SwitchPirates *(after the am/0x23 crash-screen decode — preventative harm reduction working in the wild)*
 
-> *"I need to write up a small 'how to' document for my non-tech-savvy wife... Would you like me to post it here so you can use whatever part of it that you want for helping others?"*  
-> — **micaturtle**, Tech Support Pro & Community Collaborator *(After catching a folder naming bug in v1.4.0, they helped fix the release zip and volunteered to write an accessibility guide)*
-
 > *"Can someone please bring native PKHeX on switch with support for all gens... You got all my support my friend!"*  
 > — **z-shark**, Homebrew Community Member *(After seeing my ACNH editor, they confirmed native PKHeX-NX was exactly what the community needed)*
-
-> *"OMG Cbreezy! You are the GOAT! I haven't even opened it yet, and this looks AWESOME. :D - the pocket item injection will be awesome! Thank you SO much :D"*  
-> — **micaturtle**, ACNH Modding Community *(On launch day of v1.0; later helped fix broken links and volunteered to write accessibility guides)*
 
 ## 🤖 AI Projects
 ### A.X.I.O.M. v2 — Autonomous Local AI OS
@@ -167,25 +157,16 @@
 I leverage my deep expertise in **reverse engineering**, **systems programming**, and **local AI architecture** to help companies and developers solve complex technical challenges. I prioritize **safety**, **transparency**, and **byte-verified integrity** in every project.
 
 ### ✍️ Technical Writing & Documentation
-*I translate complex low-level concepts into clear, actionable guides for developers and end-users.*
-- **Specialties:** Reverse engineering tutorials, API documentation, save-format breakdowns, and security best practices.
-- **Recent Work:** Authored the [r/SwitchPirates 23.0.0 Recovery Guide](https://www.reddit.com/r/SwitchPirates/comments/1wtuu8e/fw_2300_atmosphere_1120_fixed_the_yellow_screen/) (22k+ views, 75+ shares, #1 post of all time on r/SwitchPirates) and contributed accessibility docs for [GitProfileLens](https://github.com/quangshuynh/gitprofilelens).
-- **Ideal For:** Developer blogs, SDK documentation, and community-facing technical guides.
+Translating complex low-level concepts into actionable guides. Authored the #1 all-time r/SwitchPirates recovery guide (22k+ views) and contributed accessibility docs for GitProfileLens.
 
 ### 🐛 Bug Bounty Hunting & Security Auditing
-*I find the edge cases that CI pipelines miss, focusing on memory safety, crypto implementations, and file system integrity.*
-- **Specialties:** Native application hardening, hash verification logic, NAND/file-system commit mechanisms (`fsFsCommit()`), Horizon OS crash-screen decoding (sysmodule Title ID mapping), and IPC interface reverse engineering.
-- **Track Record:** Identified critical input regressions and session-handoff crashes in [OpenNOW-Switch](https://github.com/OpenCloudGaming/OpenNOW-Switch), and architectural friction points in [flamoris-ai-agent](https://github.com/flamoris-jp/flamoris-ai-agent).
-- **Ideal For:** Pre-release security audits, homebrew tool hardening, and local-first AI application testing.
+Finding edge cases CI misses. Focused on memory safety, crypto implementations, and Horizon OS crash-screen decoding. Caught critical regressions in OpenNOW-Switch and flamoris-ai-agent.
 
 ### 🛠️ Specialized IT Support & Systems Engineering
-*I build zero-dependency tools and diagnostic agents that respect user privacy and system integrity.*
-- **Specialties:** Python CLI automation, network diagnostics, local LLM integration (Ollama/ChromaDB), and Windows/Linux system repair.
-- **Tools Built:** [gh-network-scanner](https://github.com/cbreezy210/gh-network-scanner) (zero-dep network mapping) and A.X.I.O.M. PC Diagnostic Agent.
-- **Ideal For:** Automating internal dev-ops tasks, building custom diagnostic tools, or setting up secure, offline AI workflows.
+Building zero-dependency diagnostic agents. Created gh-network-scanner and the A.X.I.O.M. PC Diagnostic Agent for secure, offline workflows.
 
 ---
-**📩 Contact:** For inquiries, please reach out via [GitHub Issues](https://github.com/cbreezy210/cbreezy210/issues) or connect with me on [Bluesky](https://bsky.app/profile/cbreezy210.bsky.social).
+**📩 Contact:** For freelance inquiries, please reach out via email at **christopherbrownii1993@gmail.com**. For open-source collaboration, connect with me on [Bluesky](https://bsky.app/profile/cbreezy210.bsky.social) or open a [GitHub Issue](https://github.com/cbreezy210/cbreezy210/issues).
 
 ## 🧰 Open-Source Dev Tools
 ### [gh-network-scanner](https://github.com/cbreezy210/gh-network-scanner) 🕸️
