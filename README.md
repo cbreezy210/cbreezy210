@@ -1,6 +1,6 @@
 > *"The corrupt bro dances across the NAND, thirteen bytes past the checksum, and the save never knows."* 💩
 
-# Hi there! 👋 I'm cbreezy210
+# Hi there! 👋 I'm cbreezy210!
 **Software Developer & Reverse Engineer**
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=FF4E8A&vCenter=true&width=440&lines=Building+native+Switch+homebrew;Reverse+engineering+save+files;Direct+NAND+injection+🔥;Training+local+AI+modules;Fixing+PCs+one+USB+at+a+time)
