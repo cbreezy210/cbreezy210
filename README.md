@@ -87,6 +87,8 @@
 
 ## 💬 From the Trenches
 
+See what the community and collaborators are saying about my work in [TESTIMONIALS.md](TESTIMONIALS.md).
+
 > *"Your Phase 0 feedback helped us catch exactly the kind of portability issues we wanted to eliminate."*  
 > — **akino-nanto**, flamoris-ai-agent maintainer *(on PR #20, which merged the refactor my Phase 0 testing triggered)*
 
