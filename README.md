@@ -8,7 +8,7 @@
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cbreezy210&theme=radical&cachebust=30)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cbreezy210&theme=radical)
 
-## 📈 **1,700+ downloads served** across all projects!
+## 📈 **1,800+ downloads served** across all projects!
 
 ## 🔧 What I Do
 - Designing creature stats, abilities, and type-chart balancing for ROM hacks 📊
@@ -29,7 +29,7 @@
 ## 🚀 Currently Working On
 - ⭐ **Fallout: Evolution** - Fallout-themed Pokémon ROM hack ([pokeemerald-expansion](https://github.com/rh-hideout/pokeemerald-expansion)) led by **abelardthebard**. Contributing creature design, BST/stat balancing, lore-to-mechanics ability mapping, and type-chart optimization. Currently locking in the early-game batch (Dogmeat starter branches, Mutant Hound lines, and lore-accurate abilities). 🦴
 - ⭐ **TimeStranger-NX** - Digimon Story: Time Stranger Save Editor. Direct NAND FS access successfully implemented (no bridge required!). Currently adding advanced features before public release. 💩
-- ⭐ **PKHeX-NX** - Native Pokémon SV Save Editor. v0.9.5 LIVE! 🚀 | 248+ downloads | Community Discord coming soon. 🔴⚪
+- ⭐ **PKHeX-NX** - Native Pokémon SV Save Editor. v0.9.5 LIVE! 🚀| Community Discord coming soon. 🔴⚪
 - ⭐ **ACNH-Save-Editor** - Shipped v1.4.0; currently developing the v1.5.0 Room Decorations Injector. 🍃
 - **A.X.I.O.M. v2** - Autonomous Local AI OS | Uncensored Dungeon Master (persistent world state, combat, lore RAG), Brutal Interview Simulator, and PC Diagnostic Agent (runs offline via Ollama/ChromaDB) 🐉💻
 - **Creature_AI_Prototype** - Multi-agent ecosystem simulation with persistent individual minds, emergent social dynamics, elected governance, and task delegation 🐾
@@ -54,7 +54,7 @@
 ![Latest Release](https://img.shields.io/github/v/release/cbreezy210/PKHeX-NX?include_prereleases&style=flat-square&logo=github&color=blueviolet&cachebust=2)
 ![License](https://img.shields.io/github/license/cbreezy210/PKHeX-NX?style=flat-square&color=blue&cachebust=2)
 
-**Public Beta & actively hardening:** **A 100% native Switch save editor for Pokémon Scarlet & Violet — built with open-source C++, byte-verified backups, and dual-file commit safety.** — no PC, no save dumping, no bridges. v0.9.5 QoL sprint live; 269+ downloads, contributing to the 1,700+ total served across all projects.
+**Public Beta & actively hardening:** **A 100% native Switch save editor for Pokémon Scarlet & Violet — built with open-source C++, byte-verified backups, and dual-file commit safety.** — no PC, no save dumping, no bridges. v0.9.5 QoL sprint live; 279+ downloads, contributing to the 1,800+ total served across all projects.
 
 🔬 **Reverse Engineering Highlights:**
 - Cracked the Gen 9 SCBlock/SCXorShift32 save structure with SHA256 footer verification and xorpad decryption
@@ -69,11 +69,11 @@
 ### [ACNH-Save-Editor](https://github.com/cbreezy210/ACNH-Save-Editor) 🍃
 ![ACNH Stars](https://img.shields.io/github/stars/cbreezy210/ACNH-Save-Editor?style=flat-square&logo=github&color=yellow&cachebust=2)
 ![GitHub Downloads](https://img.shields.io/github/downloads/cbreezy210/ACNH-Save-Editor/total?style=flat-square&logo=github&color=orange&cachebust=2)
-![GameBanana](https://img.shields.io/badge/GameBanana-335%2B%20Downloads-F5A623?style=flat-square&logo=gamebanana&logoColor=white)
+![GameBanana](https://img.shields.io/badge/GameBanana-336%2B%20Downloads-F5A623?style=flat-square&logo=gamebanana&logoColor=white)
 ![Latest Release](https://img.shields.io/github/v/release/cbreezy210/ACNH-Save-Editor?include_prereleases&style=flat-square&logo=github&color=blueviolet&cachebust=2)
 ![License](https://img.shields.io/github/license/cbreezy210/ACNH-Save-Editor?style=flat-square&color=blue&cachebust=2)
 
-**Shipped & stable:** The first 100% native Switch save editor for Animal Crossing: New Horizons — no PC, no save dumping, no bridges. v1.4.0 live; 1,435+ downloads served (1.1k GitHub + 335 GameBanana), contributing to the 1,700+ total across all projects. v1.5.0 Room Decorations Injector in active development.
+**Shipped & stable:** The first 100% native Switch save editor for Animal Crossing: New Horizons — no PC, no save dumping, no bridges. v1.4.0 live; 1,536+ downloads served (1.2k GitHub + 336 GameBanana), contributing to the 1,800+ total across all projects. v1.5.0 Room Decorations Injector in active development.
 
 🔬 **Reverse Engineering Highlights:**
 - Cracked the AES-encrypted economy integers (Wallet, Bank, Nook Miles, Loan) split across `personal.dat` (per-resident) and `main.dat` (per-island)
