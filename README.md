@@ -147,7 +147,7 @@ See what the community and collaborators are saying about my work in [TESTIMONIA
 - ⏱️ **Time & Weather System** — Day/night cycles, weather effects, and resource management
 
 ## 🤝 Recent Open-Source Contributions
-- **[r/SwitchPirates 23.0.0 Recovery Guide](https://www.reddit.com/r/SwitchPirates/comments/1wtuu8e/fw_2300_atmosphere_1120_fixed_the_yellow_screen/)** 22k+ views, 75+ shares, 35+ comment support thread; #1 post of all time on r/SwitchPirates; maintained with a public corrections log and maintainer-verified fixes (bth, hexkyz).
+- **[r/SwitchPirates 23.0.0 Recovery Guide](https://www.reddit.com/r/SwitchPirates/comments/1wtuu8e/fw_2300_atmosphere_1120_fixed_the_yellow_screen/)** 23k+ views, 77+ shares, 41+ comment support thread; #1 post of all time on r/SwitchPirates; maintained with a public corrections log and maintainer-verified fixes (bth, hexkyz).
 - **[GitProfileLens](https://github.com/quangshuynh/gitprofilelens) (Accessibility & Testing):** Implemented keyboard-accessible copy feedback with `aria-live` announcements and robust clipboard error handling. Rewrote unit tests to exercise real production handlers, ensuring deterministic success/failure paths.
 - **[Repo-Radar](https://github.com/quangshuynh/repo-radar) (Algorithmic Disambiguation):** Fixed a semantic collision in recommendation ranking where the "homebrew" keyword falsely matched macOS `brew` taps instead of Nintendo Switch homebrew projects, preserving relevance for console dev profiles.
 - **[flamoris-ai-agent](https://github.com/flamoris-jp/flamoris-ai-agent) (Phase 0 Validation & Architecture Impact):** Independently executed the full local acceptance checklist for a runtime-agnostic local AI agent on Windows. Identified critical friction points (UTF-8 encoding traps, API provider mismatches) which directly influenced the maintainer's architectural refactor ([PR #20](https://github.com/flamoris-jp/flamoris-ai-agent/pull/20)) for a neutral, environment-driven setup flow.
@@ -159,7 +159,7 @@ See what the community and collaborators are saying about my work in [TESTIMONIA
 I leverage my deep expertise in **reverse engineering**, **systems programming**, and **local AI architecture** to help companies and developers solve complex technical challenges. I prioritize **safety**, **transparency**, and **byte-verified integrity** in every project.
 
 ### ✍️ Technical Writing & Documentation
-Translating complex low-level concepts into actionable guides. Authored the #1 all-time r/SwitchPirates recovery guide (22k+ views) and contributed accessibility docs for GitProfileLens.
+Translating complex low-level concepts into actionable guides. Authored the #1 all-time r/SwitchPirates recovery guide (23k+ views) and contributed accessibility docs for GitProfileLens.
 
 ### 🐛 Bug Bounty Hunting & Security Auditing
 Finding edge cases CI misses. Focused on memory safety, crypto implementations, and Horizon OS crash-screen decoding. Caught critical regressions in OpenNOW-Switch and flamoris-ai-agent.
