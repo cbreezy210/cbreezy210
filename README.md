@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=FF4E8A&vCenter=true&width=700&lines=The+corrupt+bro+dances+across+the+NAND,+thirteen+bytes+past+the+checksum,+and+the+save+never+knows.+%F0%9F%92%A9" alt="Corrupt Bro Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=FF4E8A&vCenter=true&width=600&lines=The+corrupt+bro+dances+across+the+NAND;13+bytes+past+the+checksum,+save+never+knows.+%F0%9F%92%A9" alt="Corrupt Bro Banner" />
 </p>
 
 # Hi, I'm cbreezy210 (Corrupt Bro) 👋
