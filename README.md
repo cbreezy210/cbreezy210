@@ -49,7 +49,6 @@ I build native Nintendo Switch homebrew, zero-dependency save editors, and offli
 
 **A 100% native Switch save editor for Pokémon Scarlet & Violet.** No PC, no save dumping, no bridges. v0.9.5 QoL sprint live.
 - **RE Highlights:** Cracked Gen 9 SCBlock/SCXorShift32 save structure with SHA256 footer verification. Ported PKHeX `SpeciesConverter` to fix Paldean ID divergence. Built a legality-aware generator with real learnsets and growth-correct EXP curves.
-- 📖 [GameBrew Wiki](https://www.gamebrew.org/wiki/PKHeX-NX) | 💬 [GBATemp Thread](https://gbatemp.net/threads/homebrew-app-pkhex-nx-native-switch-pokemon-save-editor-scarlet-violet-devlog-sneak-peek.684125/)
 
 ### 🟢 [ACNH-Save-Editor](https://github.com/cbreezy210/ACNH-Save-Editor) 🍃 *(Stable)*
 ![ACNH Stars](https://img.shields.io/github/stars/cbreezy210/ACNH-Save-Editor?style=flat-square&logo=github&color=yellow) 
