@@ -99,9 +99,16 @@ Fallout-themed Pokémon ROM hack led by **abelardthebard**. Contributing creatur
 - 🧠 **Persistent Individual Minds:** Unique memory, personality, and relationship maps per agent.
 - 🏛️ **Elected Governance:** Dynamic mayor elections with leadership scores and task assignment.
 
+## 🧰 Developer Tools
+
+### 🟢 [gh-network-scanner](https://github.com/cbreezy210/gh-network-scanner) 🕸️ *(Stable)*
+![Stars](https://img.shields.io/github/stars/cbreezy210/gh-network-scanner?style=flat-square&logo=github&color=yellow) ![Python](https://img.shields.io/badge/Python-stdlib-3776AB?style=flat-square&logo=python&logoColor=white) ![Zero Dependencies](https://img.shields.io/badge/Dependencies-Zero-239120?style=flat-square)
+**A zero-dependency, safety-first CLI that maps your second-degree GitHub network to surface high-signal developers.** Pure Python stdlib — no pip, no frameworks.
+- **Smart Quality Gate:** Automatically filters out bots, mass-followers (>800 following), and empty accounts (<3 repos) to find true domain experts.
+- **Real-World Proof:** Used this exact tool to discover and connect with Switch homebrew legends (ClusterM, fincs, WinterMute) and local-AI architects.
+
 ---
 
-## 💬 From the Trenches
 ## 💬 From the Trenches
 See what the community and collaborators are saying about my work in [TESTIMONIALS.md](TESTIMONIALS.md).
 
