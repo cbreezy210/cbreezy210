@@ -41,17 +41,20 @@ I build native Nintendo Switch homebrew, zero-dependency save editors, and offli
 
 ### 🟡 [PKHeX-NX](https://github.com/cbreezy210/PKHeX-NX) 🔴⚪️ *(Active Beta)*
 ![PKHeX-NX Stars](https://img.shields.io/github/stars/cbreezy210/PKHeX-NX?style=flat-square&logo=github&color=yellow) ![Downloads](https://img.shields.io/github/downloads/cbreezy210/PKHeX-NX/total?style=flat-square&logo=github&color=orange)
+
 **A 100% native Switch save editor for Pokémon Scarlet & Violet.** No PC, no save dumping, no bridges. v0.9.5 QoL sprint live.
 - **RE Highlights:** Cracked Gen 9 SCBlock/SCXorShift32 save structure with SHA256 footer verification. Ported PKHeX `SpeciesConverter` to fix Paldean ID divergence. Built a legality-aware generator with real learnsets and growth-correct EXP curves.
 - 📖 [GameBrew Wiki](https://www.gamebrew.org/wiki/PKHeX-NX) | 💬 [GBATemp Thread](https://gbatemp.net/threads/homebrew-app-pkhex-nx-native-switch-pokemon-save-editor-scarlet-violet-devlog-sneak-peek.684125/)
 
 ### 🟢 [ACNH-Save-Editor](https://github.com/cbreezy210/ACNH-Save-Editor) 🍃 *(Stable)*
 ![ACNH Stars](https://img.shields.io/github/stars/cbreezy210/ACNH-Save-Editor?style=flat-square&logo=github&color=yellow) ![Downloads](https://img.shields.io/github/downloads/cbreezy210/ACNH-Save-Editor/total?style=flat-square&logo=github&color=orange)
+
 **The first 100% native Switch save editor for Animal Crossing: New Horizons.** v1.4.0 live (1,536+ downloads). v1.5.0 Room Decorations Injector in dev.
 - **RE Highlights:** Cracked AES-encrypted economy integers split across `personal.dat` and `main.dat`. Implemented automatic Murmur3 hash healing. Mapped the pocket item table (8-byte slot records at `0x2A00`) powered by a 13,000+ item database.
 
 ### 🟡 [TimeStranger-NX](https://github.com/cbreezy210/TimeStranger-NX) 💩 *(Active Dev)*
 ![TimeStranger-NX Stars](https://img.shields.io/github/stars/cbreezy210/TimeStranger-NX?style=flat-square&logo=github&color=yellow)
+
 **The first native Switch save editor for Digimon Story: Time Stranger.** 
 - **RE Highlights:** Achieved direct NAND FS access (no bridge required). Located Yen value at offset `0x7973` (u32 LE). Discovered the `fsFsCommit()` requirement to prevent silent NAND rollbacks.
 
