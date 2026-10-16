@@ -11,10 +11,11 @@ I build native Nintendo Switch homebrew, zero-dependency save editors, and offli
 <summary><strong>📑 Quick Navigation (Click to Expand)</strong></summary>
 <br>
 • <a href="#-impact--metrics">Impact & Metrics</a><br>
-• <a href="#️-tech-stack">Tech Stack</a><br>
+• <a href="#-tech-stack">Tech Stack</a><br>
 • <a href="#-featured-projects">Featured Projects</a><br>
 • <a href="#-open-source-contributions">Open Source Contributions</a><br>
 • <a href="#-ai--local-systems">AI & Local Systems</a><br>
+• <a href="#-developer-tools">Developer Tools</a><br>
 • <a href="#-from-the-trenches">From the Trenches</a><br>
 • <a href="#-lets-work-together">Let's Work Together</a>
 </details>
@@ -98,6 +99,8 @@ Fallout-themed Pokémon ROM hack led by **abelardthebard**. Contributing creatur
 <p align="center"><em>Emergent colony governance with elected mayors, task delegation, and persistent creature relationships</em></p>
 - 🧠 **Persistent Individual Minds:** Unique memory, personality, and relationship maps per agent.
 - 🏛️ **Elected Governance:** Dynamic mayor elections with leadership scores and task assignment.
+
+---
 
 ## 🧰 Developer Tools
 
