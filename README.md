@@ -35,9 +35,13 @@ I build native Nintendo Switch homebrew, zero-dependency save editors, and offli
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Systems & Low-Level:** ![Horizon OS & Homebrew](https://img.shields.io/badge/Horizon_OS_&_Homebrew-E60012?style=for-the-badge&logo=nintendoswitch&logoColor=white) ![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-FF4500?style=for-the-badge&logo=github&logoColor=white) ![Cryptography](https://img.shields.io/badge/Cryptography_(AES/SHA256)-2D3748?style=for-the-badge&logo=linux&logoColor=white)
+**Systems & Low-Level:** 
 
-**AI & Tools:** ![Local AI](https://img.shields.io/badge/Local_AI_(Ollama/ChromaDB)-8A2BE2?style=for-the-badge&logo=openai&logoColor=white) ![Zero Dependencies](https://img.shields.io/badge/Zero_Dependencies-239120?style=for-the-badge)
+![Horizon OS & Homebrew](https://img.shields.io/badge/Horizon_OS_&_Homebrew-E60012?style=for-the-badge&logo=nintendoswitch&logoColor=white) ![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-FF4500?style=for-the-badge&logo=github&logoColor=white) ![Cryptography](https://img.shields.io/badge/Cryptography_(AES/SHA256)-2D3748?style=for-the-badge&logo=linux&logoColor=white)
+
+**AI & Tools:** 
+
+![Local AI](https://img.shields.io/badge/Local_AI_(Ollama/ChromaDB)-8A2BE2?style=for-the-badge&logo=openai&logoColor=white) ![Zero Dependencies](https://img.shields.io/badge/Zero_Dependencies-239120?style=for-the-badge)
 
 ---
 
