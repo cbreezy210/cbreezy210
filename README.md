@@ -87,9 +87,13 @@ Fallout-themed Pokémon ROM hack led by **abelardthebard**. Contributing creatur
   <img src="assets/axiom_job_kanban.png" width="45%" alt="Job Hunt Kanban Board" />
 </p>
 <p align="center"><em>Left: Resume Parser + Brutal Interview Simulator | Right: Job Hunt Kanban Tracker</em></p>
+
 - 🐉 **Uncensored Dungeon Master:** Persistent world state, combat tracking, lore RAG, session chronicles.
+
 - 💼 **Brutal Interview Simulator:** Realistic hiring manager persona with scored feedback.
+
 - 🛠️ **PC Diagnostic Agent:** Executes local PowerShell tools safely via permission gate.
+
 - 🧠 **Fully Offline:** Runs on Ollama + ChromaDB. Zero data leaves the machine.
 
 ### Creature_AI_Prototype — Multi-Agent Ecosystem
@@ -97,7 +101,9 @@ Fallout-themed Pokémon ROM hack led by **abelardthebard**. Contributing creatur
   <img src="assets/creature_ai_habitat.png" width="70%" alt="Creature AI Habitat Dashboard" />
 </p>
 <p align="center"><em>Emergent colony governance with elected mayors, task delegation, and persistent creature relationships</em></p>
+
 - 🧠 **Persistent Individual Minds:** Unique memory, personality, and relationship maps per agent.
+
 - 🏛️ **Elected Governance:** Dynamic mayor elections with leadership scores and task assignment.
 
 ---
