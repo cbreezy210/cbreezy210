@@ -22,7 +22,7 @@ I build native Nintendo Switch homebrew, zero-dependency save editors, and offli
 
 ---
 
-##  Impact & Metrics
+## Impact & Metrics
 - **1,800+ downloads** served across all open-source projects.
 - **#1 Post of All Time** on r/SwitchPirates: Atmosphere 1.12.1 announcement (17.8k views, 85 upvotes, 99% upvote ratio, 63 comments, 10 shares).
 - **#2 Post of All Time** on r/SwitchPirates: FW 23.0.0 Recovery Guide (26.9k views, 82 shares, 46 comments, 91% upvote ratio) - maintained with a public corrections log and maintainer-verified fixes (bth, hexkyz).
