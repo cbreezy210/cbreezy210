@@ -49,7 +49,9 @@ I build native Nintendo Switch homebrew, zero-dependency save editors, and offli
 - 📖 [GameBrew Wiki](https://www.gamebrew.org/wiki/PKHeX-NX) | 💬 [GBATemp Thread](https://gbatemp.net/threads/homebrew-app-pkhex-nx-native-switch-pokemon-save-editor-scarlet-violet-devlog-sneak-peek.684125/)
 
 ### 🟢 [ACNH-Save-Editor](https://github.com/cbreezy210/ACNH-Save-Editor) 🍃 *(Stable)*
-![ACNH Stars](https://img.shields.io/github/stars/cbreezy210/ACNH-Save-Editor?style=flat-square&logo=github&color=yellow) ![Downloads](https://img.shields.io/github/downloads/cbreezy210/ACNH-Save-Editor/total?style=flat-square&logo=github&color=orange)
+![ACNH Stars](https://img.shields.io/github/stars/cbreezy210/ACNH-Save-Editor?style=flat-square&logo=github&color=yellow) 
+![GitHub Downloads](https://img.shields.io/github/downloads/cbreezy210/ACNH-Save-Editor/total?style=flat-square&logo=github&color=orange) 
+![GameBanana](https://img.shields.io/badge/GameBanana-336%2B%20Downloads-F5A623?style=flat-square&logo=gamebanana&logoColor=white)
 
 **The first 100% native Switch save editor for Animal Crossing: New Horizons.** v1.4.0 live (1,536+ downloads). v1.5.0 Room Decorations Injector in dev.
 - **RE Highlights:** Cracked AES-encrypted economy integers split across `personal.dat` and `main.dat`. Implemented automatic Murmur3 hash healing. Mapped the pocket item table (8-byte slot records at `0x2A00`) powered by a 13,000+ item database.
@@ -98,6 +100,8 @@ Fallout-themed Pokémon ROM hack led by **abelardthebard**. Contributing creatur
 ---
 
 ## 💬 From the Trenches
+## 💬 From the Trenches
+See what the community and collaborators are saying about my work in [TESTIMONIALS.md](TESTIMONIALS.md).
 
 > *"Your Phase 0 feedback helped us catch exactly the kind of portability issues we wanted to eliminate."*  
 > — **akino-nanto**, flamoris-ai-agent maintainer *(on PR #20)*
@@ -107,7 +111,6 @@ Fallout-themed Pokémon ROM hack led by **abelardthebard**. Contributing creatur
 
 > *"Thanks for the heads up on the dvr patches. I don't have any reason to update my emummc right now but when I do update it and my games crash, I'll know why"*  
 > — **SwellEquis**, r/SwitchPirates *(preventative harm reduction working in the wild)*
-
 ---
 
 ## 💼 Let's Work Together
