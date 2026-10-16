@@ -1,4 +1,6 @@
-![Corrupt Bro Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=FF4E8A&vCenter=true&width=600&lines=*"The+corrupt+bro+dances+across+the+NAND,+thirteen+bytes+past+the+checksum,+and+the+save+never+knows."*+💩)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=FF4E8A&vCenter=true&width=600&lines=The+corrupt+bro+dances+across+the+NAND;thirteen+bytes+past+the+checksum;and+the+save+never+knows.+%F0%9F%92%A9" alt="Corrupt Bro Banner" />
+</p>
 
 # Hi, I'm cbreezy210 (Corrupt Bro) 👋
 **Software Developer | Reverse Engineer | Local-First AI Architect**
@@ -9,11 +11,11 @@ I build native Nintendo Switch homebrew, zero-dependency save editors, and offli
 <summary><strong>📑 Quick Navigation (Click to Expand)</strong></summary>
 <br>
 • <a href="#-impact--metrics">Impact & Metrics</a><br>
-• <a href="#-tech-stack">Tech Stack</a><br>
+• <a href="#️-tech-stack">Tech Stack</a><br>
 • <a href="#-featured-projects">Featured Projects</a><br>
 • <a href="#-open-source-contributions">Open Source Contributions</a><br>
 • <a href="#-ai--local-systems">AI & Local Systems</a><br>
-• <a href="#-community-testimonials">Community Testimonials</a><br>
+• <a href="#-from-the-trenches">From the Trenches</a><br>
 • <a href="#-lets-work-together">Let's Work Together</a>
 </details>
 
@@ -29,24 +31,22 @@ I build native Nintendo Switch homebrew, zero-dependency save editors, and offli
 ## 🛠️ Tech Stack
 **Languages:** ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Systems & Low-Level:** ![Nintendo Switch Homebrew](https://img.shields.io/badge/Horizon_OS_&_Homebrew-E60012?style=for-the-badge&logo=nintendoswitch&logoColor=white) ![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-FF4500?style=for-the-badge&logo=github&logoColor=white) ![Cryptography](https://img.shields.io/badge/Cryptography_(AES/SHA256)-2D3748?style=for-the-badge&logo=linux&logoColor=white)
+**Systems & Low-Level:** ![Horizon OS & Homebrew](https://img.shields.io/badge/Horizon_OS_&_Homebrew-E60012?style=for-the-badge&logo=nintendoswitch&logoColor=white) ![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-FF4500?style=for-the-badge&logo=github&logoColor=white) ![Cryptography](https://img.shields.io/badge/Cryptography_(AES/SHA256)-2D3748?style=for-the-badge&logo=linux&logoColor=white)
 
-**AI & Tools:** ![AI/LLM](https://img.shields.io/badge/Local_AI_(Ollama/ChromaDB)-8A2BE2?style=for-the-badge&logo=openai&logoColor=white) ![Zero Dependencies](https://img.shields.io/badge/Zero_Dependencies-239120?style=for-the-badge)
+**AI & Tools:** ![Local AI](https://img.shields.io/badge/Local_AI_(Ollama/ChromaDB)-8A2BE2?style=for-the-badge&logo=openai&logoColor=white) ![Zero Dependencies](https://img.shields.io/badge/Zero_Dependencies-239120?style=for-the-badge)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🟡 [PKHeX-NX](https://github.com/cbreezy210/PKHeX-NX) 🔴⚪️ *(Active Beta)*
-![PKHeX-NX Stars](https://img.shields.io/github/stars/cbreezy210/PKHeX-NX?style=flat-square&logo=github&color=yellow)
-![Downloads](https://img.shields.io/github/downloads/cbreezy210/PKHeX-NX/total?style=flat-square&logo=github&color=orange)
+![PKHeX-NX Stars](https://img.shields.io/github/stars/cbreezy210/PKHeX-NX?style=flat-square&logo=github&color=yellow) ![Downloads](https://img.shields.io/github/downloads/cbreezy210/PKHeX-NX/total?style=flat-square&logo=github&color=orange)
 **A 100% native Switch save editor for Pokémon Scarlet & Violet.** No PC, no save dumping, no bridges. v0.9.5 QoL sprint live.
 - **RE Highlights:** Cracked Gen 9 SCBlock/SCXorShift32 save structure with SHA256 footer verification. Ported PKHeX `SpeciesConverter` to fix Paldean ID divergence. Built a legality-aware generator with real learnsets and growth-correct EXP curves.
 - 📖 [GameBrew Wiki](https://www.gamebrew.org/wiki/PKHeX-NX) | 💬 [GBATemp Thread](https://gbatemp.net/threads/homebrew-app-pkhex-nx-native-switch-pokemon-save-editor-scarlet-violet-devlog-sneak-peek.684125/)
 
 ### 🟢 [ACNH-Save-Editor](https://github.com/cbreezy210/ACNH-Save-Editor) 🍃 *(Stable)*
-![ACNH Stars](https://img.shields.io/github/stars/cbreezy210/ACNH-Save-Editor?style=flat-square&logo=github&color=yellow)
-![Downloads](https://img.shields.io/github/downloads/cbreezy210/ACNH-Save-Editor/total?style=flat-square&logo=github&color=orange)
+![ACNH Stars](https://img.shields.io/github/stars/cbreezy210/ACNH-Save-Editor?style=flat-square&logo=github&color=yellow) ![Downloads](https://img.shields.io/github/downloads/cbreezy210/ACNH-Save-Editor/total?style=flat-square&logo=github&color=orange)
 **The first 100% native Switch save editor for Animal Crossing: New Horizons.** v1.4.0 live (1,536+ downloads). v1.5.0 Room Decorations Injector in dev.
 - **RE Highlights:** Cracked AES-encrypted economy integers split across `personal.dat` and `main.dat`. Implemented automatic Murmur3 hash healing. Mapped the pocket item table (8-byte slot records at `0x2A00`) powered by a 13,000+ item database.
 
@@ -73,8 +73,8 @@ Fallout-themed Pokémon ROM hack led by **abelardthebard**. Contributing creatur
 
 ### A.X.I.O.M. v2 — Autonomous Local AI OS
 <p align="center">
-<img src="assets/axiom_resume_interview.png" width="45%" alt="Resume Parser & Interview Simulator" />
-<img src="assets/axiom_job_kanban.png" width="45%" alt="Job Hunt Kanban Board" />
+  <img src="assets/axiom_resume_interview.png" width="45%" alt="Resume Parser & Interview Simulator" />
+  <img src="assets/axiom_job_kanban.png" width="45%" alt="Job Hunt Kanban Board" />
 </p>
 <p align="center"><em>Left: Resume Parser + Brutal Interview Simulator | Right: Job Hunt Kanban Tracker</em></p>
 - 🐉 **Uncensored Dungeon Master:** Persistent world state, combat tracking, lore RAG, session chronicles.
@@ -84,7 +84,7 @@ Fallout-themed Pokémon ROM hack led by **abelardthebard**. Contributing creatur
 
 ### Creature_AI_Prototype — Multi-Agent Ecosystem
 <p align="center">
-<img src="assets/creature_ai_habitat.png" width="70%" alt="Creature AI Habitat Dashboard" />
+  <img src="assets/creature_ai_habitat.png" width="70%" alt="Creature AI Habitat Dashboard" />
 </p>
 <p align="center"><em>Emergent colony governance with elected mayors, task delegation, and persistent creature relationships</em></p>
 - 🧠 **Persistent Individual Minds:** Unique memory, personality, and relationship maps per agent.
@@ -120,11 +120,15 @@ I leverage deep expertise in reverse engineering, systems programming, and local
 ### 💖 Support This Work
 I build native Switch homebrew, zero-dependency save editors, and local-first AI systems. All my tools are open-source, safety-first, and byte-verified. If you've benefited from my work, your support helps me keep building tools you can trust.
 
-<a href="https://www.buymeacoffee.com/cbreezy210" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/cbreezy210" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important; width: 217px !important;" />
+  </a>
+</p>
 
 ---
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=cbreezy210&style=flat&color=blueviolet&label=Profile+Views" alt="Profile Views" />
-<br><br>
-<img src="https://raw.githubusercontent.com/cbreezy210/cbreezy210/output/github-snake-dark.svg" alt="Contribution Snake" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cbreezy210&style=flat&color=blueviolet&label=Profile+Views" alt="Profile Views" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/cbreezy210/cbreezy210/output/github-snake-dark.svg" alt="Contribution Snake" />
+</p>
